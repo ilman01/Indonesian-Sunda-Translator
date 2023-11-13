@@ -2,8 +2,7 @@
 Try here: https://ilman01.github.io/Indonesian-Sunda-Translator/
 
 # Setup
-Make sure to disable autocrlf before cloning.
+The dictionary is mean to be read as autocrlf. It's already been taken care of in `.gitattributes`. But just in case it doesn't work, disable autocrlf.
 ```
 git config --global core.autocrlf false
 ```
-The file is meant to be read as lf so autocrlf will break it.
