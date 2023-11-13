@@ -3,17 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
     <title>Terjemahan Indonesia ke Sunda</title>
 </head>
 <body>
     <h1>Terjemahan Indonesia ke Sunda</h1>
     
-    <label for="inputSentence">Ketik kalimat:</label>
-    <input type="text" id="inputSentence">
-    <button onclick="TranslateSentence()">Terjemahkan</button>
-
-    <h2>Kalimat Terjemahan:</h2>
-    <p id="translatedSentence"></p>
+    <div class="container-1">
+        <div class="textbox-container-1">
+            <label for="inputSentence">Ketik kalimat:</label>
+            <br>
+            <input type="text" id="inputSentence">
+            <br>
+            <button onclick="TranslateSentence()">Terjemahkan</button>
+        </div>
+    </div>
+    <br>
+    <div class="container-1">
+        <div class="textbox-container-2">
+            <h2>Kalimat Terjemahan:</h2>
+            <p id="translatedSentence"></p>
+        </div>
+    </div>
 
     <script>
         // Function to read CSV file and create a dictionary
