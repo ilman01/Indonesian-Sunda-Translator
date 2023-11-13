@@ -21,6 +21,7 @@ h2 {
 
 .textbox-container-1 {
     width: 50vw;
+    min-width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,13 +33,13 @@ h2 {
 
 .textbox-container-1 *{
     width: 30vw;
+    min-width: 300px;
     font-size: 2.5vh;
 }
 
-.textbox-container-1 input {
-    height: 100px;
-    resize: both;
-    overflow: hidden;
+#inputSentence {
+    resize: vertical;
+    height: 200px;
 }
 
 .textbox-container-2 {
@@ -54,4 +55,10 @@ h2 {
 
 label {
     text-align: center;
+}
+
+
+#translatedSentence {
+    width: 100%;
+    overflow-wrap: break-word;
 }
