@@ -1,2 +1,2 @@
 # Indonesian Sundanese Translator
-Try here: -
+Try here: https://ilman01.github.io/Indonesian-Sunda-Translator/
