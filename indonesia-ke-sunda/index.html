@@ -38,7 +38,7 @@
                     for (var i = 0; i < lines.length; i++) {
                         var parts = lines[i].split('|'); // Change the delimiter here
                         if (parts.length === 2) {
-                            dictionary[parts[1]] = parts[0]; //ganti 0 jadi 1 kalau reverse
+                            dictionary[parts[0]] = parts[1]; //ganti 0 jadi 1 kalau reverse
                         }
                     }
                     callback(dictionary);
@@ -55,7 +55,7 @@
                 return ' ' + match;
             });
 
-            readCSV('../sunda', function (dictionary) {
+            readCSV('../dictionary/sundadictionary', function (dictionary) {
 
                 for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
                     if (dictionary.hasOwnProperty(key)) {
@@ -64,11 +64,13 @@
                     }
                 }
                 
-                var words = inputSentence.split(' '); // looks at individual word
-                var originalWords = words.map(function (word) {
-                    return dictionary[word] || word;
-                });
-                var translatedSentence = originalWords.join(' ');
+                //var words = inputSentence.split(' '); // looks at individual word
+                //var originalWords = words.map(function (word) {
+                //    return dictionary[word] || word;
+                //});
+                //var translatedSentence = originalWords.join(' ');
+
+                var translatedSentence = inputSentence
 
                 translatedSentence = translatedSentence.replace(/\s*[,\.]\s/g, function(match) { //merges special character like . and ,
                     return match.replace(/^\s+|\s+$/gm,'') + ' ';
