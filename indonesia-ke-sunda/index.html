@@ -55,7 +55,7 @@
                 return ' ' + match;
             });
 
-            readCSV('../sunda.csv', function (dictionary) {
+            readCSV('../sunda', function (dictionary) {
 
                 for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
                     if (dictionary.hasOwnProperty(key)) {
