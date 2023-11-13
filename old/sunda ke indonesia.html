@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terjemahan Sunda ke Indonesia</title>
+</head>
+<body>
+    <h1>Terjemahan Sunda ke Indonesia</h1>
+    
+    <label for="inputSentence">Ketik kalimat:</label>
+    <input type="text" id="inputSentence">
+    <button onclick="translateSentence()">Terjemahkan</button>
+
+    <h2>Translated Sentence:</h2>
+    <p id="translatedSentence"></p>
+
+    <script>
+        // Function to read CSV file and create a dictionary
+        function readCSV(file, callback) {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", file, true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var lines = xhr.responseText.split('\n');
+                    var dictionary = {};
+                    for (var i = 0; i < lines.length; i++) {
+                        var parts = lines[i].split(',');
+                        if (parts.length === 2) {
+                            dictionary[parts[0]] = parts[1];
+                        }
+                    }
+                    callback(dictionary);
+                }
+            };
+            xhr.send();
+        }
+
+        // Function to translate a sentence using the dictionary
+        function translateSentence() {
+            var inputSentence = document.getElementById('inputSentence').value;
+            readCSV('sunda.csv', function (dictionary) {
+                var words = inputSentence.split(' ');
+                var translatedWords = words.map(function (word) {
+                    return dictionary[word] || word;
+                });
+                var translatedSentence = translatedWords.join(' ');
+                document.getElementById('translatedSentence').innerText = translatedSentence;
+            });
+        }
+    </script>
+</body>
+</html>

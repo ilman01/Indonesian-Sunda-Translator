@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terjemahan Indonesia ke Sunda</title>
+</head>
+<body>
+    <h1>Terjemahan Indonesia ke Sunda</h1>
+    
+    <label for="inputTranslatedSentence">Ketik kalimat:</label>
+    <input type="text" id="inputTranslatedSentence">
+    <button onclick="reverseTranslateSentence()">Terjemahkan</button>
+
+    <h2>Original Sentence:</h2>
+    <p id="originalSentence"></p>
+
+    <script>
+        // Function to read CSV file and create a dictionary
+        function readCSV(file, callback) {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", file, true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var lines = xhr.responseText.split('\n');
+                    var dictionary = {};
+                    for (var i = 0; i < lines.length; i++) {
+                        var parts = lines[i].split(',');
+                        if (parts.length === 2) {
+                            dictionary[parts[1]] = parts[0];
+                        }
+                    }
+                    callback(dictionary);
+                }
+            };
+            xhr.send();
+        }
+
+        // Function to reverse-translate a sentence using the dictionary
+        function reverseTranslateSentence() {
+            var inputTranslatedSentence = document.getElementById('inputTranslatedSentence').value;
+            inputTranslatedSentence = inputTranslatedSentence.replace(/[,\.]/g, function(match) {
+                return ' ' + match;
+            });
+            console.log(inputTranslatedSentence)
+
+            readCSV('sunda.csv', function (dictionary) {
+                var words = inputTranslatedSentence.split(' ');
+                var originalWords = words.map(function (word) {
+                    return dictionary[word] || word;
+                });
+                var originalSentence = originalWords.join(' ');
+
+                originalSentence = originalSentence.replace(/\s*[,\.]\s/g, function(match) {
+                    return match.replace(/^\s+|\s+$/gm,'') + ' ';
+                });
+                
+                document.getElementById('originalSentence').innerText = originalSentence;
+            });
+        }
+    </script>
+</body>
+</html>
