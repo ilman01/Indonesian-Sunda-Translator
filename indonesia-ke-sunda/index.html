@@ -51,9 +51,9 @@
         function TranslateSentence() {
             var inputSentence = document.getElementById('inputSentence').value;
             inputSentence = inputSentence.toLowerCase(); // change to lowercase
-            inputSentence = inputSentence.replace(/[,\.]/g, function(match) { //separates special character like . and ,
-                return ' ' + match;
-            });
+            //inputSentence = inputSentence.replace(/[,\.]/g, function(match) { //separates special character like . and ,
+            //    return ' ' + match;
+            //});
 
             readCSV('../dictionary/sundadictionary', function (dictionary) {
 
@@ -72,9 +72,9 @@
 
                 var translatedSentence = inputSentence
 
-                translatedSentence = translatedSentence.replace(/\s*[,\.]\s/g, function(match) { //merges special character like . and ,
-                    return match.replace(/^\s+|\s+$/gm,'') + ' ';
-                });
+                //translatedSentence = translatedSentence.replace(/\s*[,\.]\s/g, function(match) { //merges special character like . and ,
+                //    return match.replace(/^\s+|\s+$/gm,'') + ' ';
+                //});
 
                 document.getElementById('translatedSentence').innerText = translatedSentence;
             });
