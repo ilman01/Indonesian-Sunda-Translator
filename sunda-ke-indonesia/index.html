@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <title>Terjemahan Sunda ke Indonesia</title>
+</head>
+<body>
+    <h1>Terjemahan Sunda ke Indonesia</h1>
+    
+    <div class="container-1">
+        <div class="textbox-container-1">
+            <label for="inputSentence">Ketik kalimat:</label>
+            <br>
+            <textarea id="inputSentence"></textarea>
+            <br>
+            <button onclick="TranslateSentence()">Terjemahkan</button>
+        </div>
+    </div>
+    <br>
+    <div class="container-1">
+        <div class="textbox-container-2">
+            <h2>Kalimat Terjemahan:</h2>
+            <p id="translatedSentence"></p>
+        </div>
+    </div>
+
+    <script>
+        // Function to read CSV file and create a dictionary
+        function readCSV(file, callback) {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", file, true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var lines = xhr.responseText.split('\n');
+                    var dictionary = {};
+                    for (var i = 0; i < lines.length; i++) {
+                        var parts = lines[i].split('|'); // Change the delimiter here
+                        if (parts.length === 2) {
+                            dictionary[parts[1]] = parts[0]; //ganti 0 jadi 1 kalau reverse
+                        }
+                    }
+                    callback(dictionary);
+                }
+            };
+            xhr.send();
+        }
+
+        // Function to reverse-translate a sentence using the dictionary
+        function TranslateSentence() {
+            var inputSentence = document.getElementById('inputSentence').value;
+            inputSentence = inputSentence.toLowerCase(); // change to lowercase
+            //inputSentence = inputSentence.replace(/[,\.]/g, function(match) { //separates special character like . and ,
+            //    return ' ' + match;
+            //});
+
+            readCSV('../dictionary/sundadictionary', function (dictionary) {
+
+                for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
+                    if (dictionary.hasOwnProperty(key)) {
+                        var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
+                        inputSentence = inputSentence.replace(regex, dictionary[key]);
+                    }
+                }
+                
+                //var words = inputSentence.split(' '); // looks at individual word
+                //var originalWords = words.map(function (word) {
+                //    return dictionary[word] || word;
+                //});
+                //var translatedSentence = originalWords.join(' ');
+
+                var translatedSentence = inputSentence
+
+                //translatedSentence = translatedSentence.replace(/\s*[,\.]\s/g, function(match) { //merges special character like . and ,
+                //    return match.replace(/^\s+|\s+$/gm,'') + ' ';
+                //});
+
+                document.getElementById('translatedSentence').innerText = translatedSentence;
+            });
+        }
+    </script>
+</body>
+</html>
