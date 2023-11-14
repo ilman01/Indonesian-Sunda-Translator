@@ -51,30 +51,33 @@
         function TranslateSentence() {
             var inputSentence = document.getElementById('inputSentence').value;
             inputSentence = inputSentence.toLowerCase(); // change to lowercase
-            //inputSentence = inputSentence.replace(/[,\.]/g, function(match) { //separates special character like . and ,
-            //    return ' ' + match;
-            //});
+            inputSentence = inputSentence.replace(/[,\.]/g, function(match) { //separates special character like . and ,
+                return ' ' + match;
+            });
 
             readCSV('../dictionary/sundadictionary', function (dictionary) {
 
                 for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
                     if (dictionary.hasOwnProperty(key)) {
-                        var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
-                        inputSentence = inputSentence.replace(regex, dictionary[key]);
+                        if (key.includes(' ')){
+                            var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
+                            inputSentence = inputSentence.replace(regex, dictionary[key]);
+                        }
                     }
                 }
                 
-                //var words = inputSentence.split(' '); // looks at individual word
-                //var originalWords = words.map(function (word) {
-                //    return dictionary[word] || word;
-                //});
-                //var translatedSentence = originalWords.join(' ');
+                var words = inputSentence.split(' '); // looks at individual word
+                var originalWords = words.map(function (word) {
+                    console.log(word)
+                    return dictionary[word] || word;
+                });
+                var translatedSentence = originalWords.join(' ');
 
-                var translatedSentence = inputSentence
+                //translatedSentence = inputSentence
 
-                //translatedSentence = translatedSentence.replace(/\s*[,\.]\s/g, function(match) { //merges special character like . and ,
-                //    return match.replace(/^\s+|\s+$/gm,'') + ' ';
-                //});
+                translatedSentence = translatedSentence.replace(/\s*[,\.]\s/g, function(match) { //merges special character like . and ,
+                    return match.replace(/^\s+|\s+$/gm,'') + ' ';
+                });
 
                 document.getElementById('translatedSentence').innerText = translatedSentence;
             });
