@@ -51,7 +51,7 @@
         function TranslateSentence() {
             var inputSentence = document.getElementById('inputSentence').value;
             inputSentence = inputSentence.toLowerCase(); // change to lowercase
-            inputSentence = inputSentence.replace(/[,\.]/g, function(match) { //separates special character like . and ,
+            inputSentence = inputSentence.replace(/[!,\."\n"]/g, function(match) { //separates special character like . and ,
                 return ' ' + match;
             });
 
@@ -75,7 +75,7 @@
 
                 //translatedSentence = inputSentence
 
-                translatedSentence = translatedSentence.replace(/\s*[,\.]\s/g, function(match) { //merges special character like . and ,
+                translatedSentence = translatedSentence.replace(/\s*[!,\.]\s/g, function(match) { //merges special character like . and ,
                     return match.replace(/^\s+|\s+$/gm,'') + ' ';
                 });
 
