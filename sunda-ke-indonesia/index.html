@@ -100,7 +100,7 @@
                             correctedWord = word.replace("di", "di ")
                         }
 
-                        if (word.match(/\b(meng)\w*\b/g)){
+                        /**if (word.match(/\b(meng)\w*\b/g)){
                             correctedWord = word.replace("meng", "nga ")
                         }
                         else if (word.match(/\b(men)\w*\b/g)){
@@ -111,9 +111,9 @@
                         }
                         else if (word.match(/\b(ke)\w*\b/g)){
                             correctedWord = word.replace("ke", "ke ")
-                        }
-                        else if (word.match(/\b(ber)\w*\b/g)){
-                            correctedWord = word.replace("ber", "ba ")
+                        }**/
+                        if (word.match(/\b(ba)\w*\b/g)){
+                            correctedWord = word.replace("ba", "ber ")
                         }
 
                         if (correctedWord == undefined){
@@ -122,7 +122,7 @@
 
 
                         inputSentence = inputSentence.replaceAll(word, correctedWord) //reset for matching ending
-                        word = inputSentence
+                        word = correctedWord
                         correctedWord = undefined
 
 
