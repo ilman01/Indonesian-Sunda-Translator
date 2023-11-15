@@ -125,11 +125,11 @@
 
 
                         //if (!word.match(/\b(?!\w*(nya|kan)\b)\w+\b/g)){
-                        if (word.match(/\b\w*(nya)\b/g)){
-                            correctedWord = word.replaceAll("nya", " nya")//.replaceAll("kan", " keun")
+                        if (word.match(/\b\w*(na)\b/g)){
+                            correctedWord = word.replaceAll("na", " na")//.replaceAll("kan", " keun")
                         }
-                        else if (word.match(/\b\w*(kan)\b/g)){
-                            correctedWord = word.replaceAll("kan", " keun")
+                        else if (word.match(/\b\w*(keun)\b/g)){
+                            correctedWord = word.replaceAll("keun", " kan")
                         }
 
                         if (correctedWord == undefined){
