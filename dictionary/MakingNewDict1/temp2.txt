@@ -1,10 +1,15 @@
-aa|kakak, abang
+aa|abang
+aa|kakak
 abad|abad
-abah|bapak, ayah
-kuring|aku, saya
+abah|ayah
+abah|bapak
+kuring|saya
+kuring|aku
 abdi|saya
-ngabdi|berbakti, mengabdi
-abeh|supaya, agar
+ngabdi|mengabdi
+ngabdi|berbakti
+abeh|agar
+abeh|supaya
 aben|adu
 abid|budak
 abir|pisau dapur
@@ -14,9 +19,12 @@ abotna|beratnya
 abus|masuk
 acara|acara
 acarana|acaranya
-acay|liur, iler
-ngacay|mengiler, ngiler
-acak|acak, sembarang
+acay|iler
+acay|liur
+ngacay|ngiler
+ngacay|mengiler
+acak|sembarang
+acak|acak
 acan|belum
 adan|azan
 adegan|adegan
@@ -41,20 +49,27 @@ ajak|ajak
 ajal|meninggal
 ajakan|ajakan
 ajaran|ajaran
-ajang|untuk, bagian
+ajang|bagian
+ajang|untuk
 ajak|ajak
-ajar|ajaran, belajar
+ajar|belajar
+ajar|ajaran
 ajeg|tegak
-ajen|nilai, harga
+ajen|harga
+ajen|nilai
 ajengan|ulama
 ajrih|segan
 ajudan|ajudan
 ajen|martabat
 akang|abang
-akal|pikiran, jiwa, benak, intelektual
+akal|intelektual
+akal|benak
+akal|jiwa
+akal|pikiran
 akar|akar
 aki|kakek
-akibat|dampak, imbas
+akibat|imbas
+akibat|dampak
 akina|kakeknya
 aksara|aksara
 aksi|aksi
@@ -63,12 +78,14 @@ akses|akses
 aksesna|aksesnya
 aktip|aktif
 aktipkeun|aktifkan
-ngaku|mengaku, menganggap
+ngaku|menganggap
+ngaku|mengaku
 akur|akur
 alam|alam
 alamat|alamat
 alamatna|alamatnya
-alatan|akibat, karena
+alatan|karena
+alatan|akibat
 albeum|album
 alesan|alasan
 alesanna|alasannya
@@ -77,12 +94,15 @@ aling|sekat
 alkohol|alkohol
 alo|keponakan
 alona|keponakannya
-alpukah|gagasan, inisiatif
+alpukah|inisiatif
+alpukah|gagasan
 alung|lempar
-alus|bagus, baik
+alus|baik
+alus|bagus
 alusna|baiknya
 aman|aman
-amanat|amanah, amanat
+amanat|amanat
+amanat|amanah
 amarah|amarah
 ambacak|berserakan
 ambek|marah
@@ -92,7 +112,8 @@ ambles|amblas
 ambulan|ambulans
 ambeh|agar
 amis|manis
-ampir|hampir, nyaris
+ampir|nyaris
+ampir|hampir
 amplop|amplop
 ampuh|mujarab
 amunisi|amunisi
@@ -137,7 +158,8 @@ anyarna|barunya
 apalan|hafalan
 aparat|aparat
 apes|sial
-apotek|apotek, apotik
+apotek|apotik
+apotek|apotek
 april|april
 arah|arah
 arahan|arahan
@@ -153,8 +175,10 @@ artikel|artikel
 arus|arus
 arena|arena
 asak|matang
-asal|asal, sumber
-asalna|asalnya, berasal
+asal|sumber
+asal|asal
+asalna|berasal
+asalna|asalnya
 asar|ashar
 asas|asas
 asasi|asasi
@@ -173,42 +197,67 @@ astana|makam
 asup|masuk
 asupna|masuknya
 atah|mentah
-atawa|atau, ataukah, ataupun, maupun
+atawa|maupun
+atawa|ataupun
+atawa|ataukah
+atawa|atau
 ateul|gatal
 ati-ati|hati-hati
-atikan|didikan, pendidikan
+atikan|pendidikan
+atikan|didikan
 atikanana|pendidikannya
 atlet|atlet
-atoh|gembira, senang, suka
-atanapi|tetapi, atau
+atoh|suka
+atoh|senang
+atoh|gembira
+atanapi|atau
+atanapi|tetapi
 atra|terang jelas
 atuh|dong
-aturan|aturan, peraturan, rambu
+aturan|rambu
+aturan|peraturan
+aturan|aturan
 awahan|ancang-ancang
-awak|badan, tubuh
-awakna|badannya, tubuhnya
-awal|awal, permulaan
+awak|tubuh
+awak|badan
+awakna|tubuhnya
+awakna|badannya
+awal|permulaan
+awal|awal
 awalna|awalnya
-aweuhan|gaung, gema
+aweuhan|gema
+aweuhan|gaung
 awon|jelek
 awuntah|boros
 awut|acak
 awer|berceceran
 awet|awet
-awewe|perempuan, wanita
-awi|bambu, buluh, aur
+awewe|wanita
+awewe|perempuan
+awi|aur
+awi|buluh
+awi|bambu
 awur|tebar
 ngawurkeun|menebarkan
-aya|ada, berada, terdapat
-ayana|adanya, keberadaan
+aya|terdapat
+aya|berada
+aya|ada
+ayana|keberadaan
+ayana|adanya
 ayat|ayat
-ayeuna|sekarang, kali ini, saat ini
+ayeuna|saat ini
+ayeuna|kali ini
+ayeuna|sekarang
 bab|bab
 babagi|berbagi
 babak|babak
 babakan|babakan
-babalantik|berbisnis, berniaga
-babarengan|berbarengan, bersama, bersama-sama, bersamaan
+babalantik|berniaga
+babalantik|berbisnis
+babarengan|bersamaan
+babarengan|bersama-sama
+babarengan|bersama
+babarengan|berbarengan
 babasan|ungkapan
 babatok|kepala
 babaturanana|teman-temannya
@@ -232,7 +281,9 @@ bajo|perampok
 bajoan|bajakan
 bajoang|berjuang
 baju|baju
-bakal|akan, bakal, bakalan
+bakal|bakalan
+bakal|bakal
+bakal|akan
 bakalan|akan dapat
 bakat|bakat
 bako|tembakau
@@ -250,7 +301,9 @@ balayar|berlayar
 balem|bungkam
 bales|balas
 balesan|balasan
-balik|balik, kembali, pulang
+balik|pulang
+balik|kembali
+balik|balik
 balukarna|akibatnya
 bale|balai
 baledog|lempar
@@ -267,26 +320,34 @@ bantu|bantu
 bantuan|bantuan
 banteng|banteng
 bapa|bapak
-bapana|ayahnya, bapaknya
+bapana|bapaknya
+bapana|ayahnya
 baragajul|berandal
-barang|barang, benda
-baraya|kerabat, saudara
-bareng|beserta, bareng
+barang|benda
+barang|barang
+baraya|saudara
+baraya|kerabat
+bareng|bareng
+bareng|beserta
 bareuh|bengkak
-bari|basi, sambil, sembari
+bari|sembari
+bari|sambil
+bari|basi
 baris|akan
 barudak|anak-anak
 baruk|oh
 barentol|bentol-bentol
 baret|baret
 bareto|dahulu
-basa|bahasa, kala
+basa|kala
+basa|bahasa
 basa kosta|bahasa asing
 basajan|sederhana
 basana|bahasanya
 baseuh|basah
 basis|basis
-basisir|pantai, pesisir
+basisir|pesisir
+basisir|pantai
 basket|basket
 baso|baso
 batalkeun|batalkan
@@ -294,8 +355,10 @@ batan|daripada
 batang|batang
 batok|tempurung
 batu|batu
-batur|rekan, orang lain
-baturna|rekannya, temannya
+batur|orang lain
+batur|rekan
+baturna|temannya
+baturna|rekannya
 bawa|bawa
 bawang|bawang
 bayabah|berceceran
@@ -317,8 +380,11 @@ bekel|bekal
 beleger|utuh
 belut|belut
 bendera|bendera
-bener|benar, bener, betul
-benerna|benarnya, tepatnya
+bener|betul
+bener|bener
+bener|benar
+benerna|tepatnya
+benerna|benarnya
 bentukna|bentuknya
 berik|kejar
 berkas|berkas
@@ -328,13 +394,16 @@ betah|betah
 beubeut|banting
 beueus|lembab
 beuheung|leher
-beuki|makin, kian, semakin
+beuki|semakin
+beuki|kian
+beuki|makin
 beuleum|bakar
 beuli|beli
 beunang|didapatkan
 beuneur|berisi
 beungbeurat|beban
-beungeut|muka, wajah
+beungeut|wajah
+beungeut|muka
 beungeutna|wajahnya
 beunghar|kaya
 beurang|siang
@@ -358,7 +427,8 @@ bingkeng|melengkung
 bingung|bingung
 binih|benih
 bintara|bintara
-bisa|bisa, dapat
+bisa|dapat
+bisa|bisa
 bisnis|bisnis
 bitis|betis
 bitu|meletus
@@ -389,7 +459,8 @@ boga posisi|berposisi
 boga potensi|berpotensi
 boga rencana|berencana
 boga salah|bersalah
-boga sipat|berkarakter, bersifat
+boga sipat|bersifat
+boga sipat|berkarakter
 boga skala|berskala
 boga tata|bertata
 boga tujuan|bertujuan
@@ -398,7 +469,8 @@ boga untung|beruntung
 boga warna|berwarna
 bogana|miliknya
 bolos|bolos
-bongbolongan|saran, usulan
+bongbolongan|usulan
+bongbolongan|saran
 bongkok|bungkuk
 bongoh|lengah
 bool|anus
@@ -412,7 +484,8 @@ bubuka|pembukaan
 budak|bocah
 budaya|budaya
 bugang|bangkai
-bujal|pusar, udel
+bujal|udel
+bujal|pusar
 bujur|pantat
 bukti|bukti
 buku|buku
@@ -424,7 +497,8 @@ bulenan|timbunan
 buleud|bulat
 buligir|telanjang
 bumi|bumi
-bunderan|bundaran, lingkaran
+bunderan|lingkaran
+bunderan|bundaran
 bungah|suka cita
 bungangang|lega
 bungin|delta
@@ -453,10 +527,14 @@ beas|beras
 bebas|bebas
 bebeakan|habis-habisan
 becek|becek
-beda|beda, berbeda, perbedaan
-bedana|bedanya, perbedaannya
+beda|perbedaan
+beda|berbeda
+beda|beda
+bedana|perbedaannya
+bedana|bedanya
 begal|rampok
-beja|kabar, pemberitahuan
+beja|pemberitahuan
+beja|kabar
 bejana|kabarnya
 bela|pertahankan
 bengkok|bengkok
@@ -472,7 +550,8 @@ caang|terang
 cabang|cabang
 cabe|cabai
 cacad|cacat
-cacak|meski, walau
+cacak|walau
+cacak|meski
 cageur|sehat
 cahara|kehormatan
 cahya|cahaya
@@ -481,7 +560,8 @@ caian|berair
 calakan|cerdas
 calana|celana
 calikong|korupsi
-calon|calon, kandidat
+calon|kandidat
+calon|calon
 cambepem|tembem
 campur|campur
 campuran|campuran
@@ -494,35 +574,44 @@ carana|caranya
 carangka|kerangka
 careham|geraham
 caremot|berlepotan
-carita|cerita, kisah
+carita|kisah
+carita|cerita
 catetan|catatan
 cau|pisang
 cawokah|porno
 cawerang|hambar
 cecekelan|pegangan
 cedit|kikir
-cenah|katanya, terangnya
+cenah|terangnya
+cenah|katanya
 cenahna|ujarnya
 centil|genit
 ceuceub|benci
 ceuceuleukeuteukan|terbahak-bahak
 ceuceuleuweungan|berteriak
 ceudeum|mendung
-ceuk|tutur, ujar
+ceuk|ujar
+ceuk|tutur
 ceuk manehna|menurutnya
-ceuli|kuping, telinga
+ceuli|telinga
+ceuli|kuping
 ceulina|telinganya
-ceurik|nangis, menangis, tangis
+ceurik|tangis
+ceurik|menangis
+ceurik|nangis
 cicing|diam
 ciduh|ludah
 cikal|sulung
 cikur|kencur
-cikeneh|baru saja, barusan
+cikeneh|barusan
+cikeneh|baru saja
 cileureun|lengah
 cingir|kelingking
 cingogo|jongkok
-cinta|cinta, cintai
-cinyusu|mata air, sumber air
+cinta|cintai
+cinta|cinta
+cinyusu|sumber air
+cinyusu|mata air
 cipanonna|airmatanya
 cipta|cipta
 ciriwis|ceriwis
@@ -530,20 +619,24 @@ citak|cetak
 citakan|cetakan
 citakna|cetaknya
 coba|coba
-cocog|cocok, sreg
+cocog|sreg
+cocog|cocok
 coklat|coklat
 cokot|ambil
 cokel|cungkil
 colok|colok
 condong|cenderung
 conto|contoh
-contona|contohnya, misalnya, sebagai contoh
+contona|sebagai contoh
+contona|misalnya
+contona|contohnya
 coplok|copot
 cua|benci
 cucu|anak
 cucuk|duri
 cukang lantaran|penyebab
-cukup|cukup, cukuplah
+cukup|cukuplah
+cukup|cukup
 culik|culik
 curuk|telunjuk
 cecepet|sirip
@@ -564,7 +657,8 @@ damar|damar
 damelna|bekerjanya
 damis|pipi
 dana|dana
-dangah|mendongak, tengadah
+dangah|tengadah
+dangah|mendongak
 dangdan|berdandan
 dangdaunan|dedaunan
 dangdut|dangdut
@@ -580,12 +674,16 @@ data|data
 data-datana|data-datanya
 datang|datang
 datangan|kunjungi
-datangna|datangnya, kedatangan, kehadirannya, kunjungan
+datangna|kunjungan
+datangna|kehadirannya
+datangna|kedatangan
+datangna|datangnya
 dawam|biasa
 daweung|sikap
 dawuk|abu-abu
 dayeuh|kota
-daek|bersedia, mau
+daek|mau
+daek|bersedia
 daerah|daerah
 dedek|dedak
 deku|berlutut
@@ -598,8 +696,10 @@ depa|mendekam
 desain|desain
 desainna|desainnya
 detik|detik
-deudeuieun|berulang-ulang, terulang kembali
-deui|lagi, ulang
+deudeuieun|terulang kembali
+deudeuieun|berulang-ulang
+deui|ulang
+deui|lagi
 deukeut|dekat
 deungeun|asing
 di|di
@@ -619,9 +719,11 @@ diagram|diagram
 diajak|diajak
 diajar|belajar
 diaktifkeun|diaktifkan
-diaku|diakui, diakuinya
+diaku|diakuinya
+diaku|diakui
 dialaman|dialami
-dialungkeun|dilemparkan, dilontarkan
+dialungkeun|dilontarkan
+dialungkeun|dilemparkan
 dianggap|dianggap
 dianggarkeun|dianggarkan
 diangkat|diangkat
@@ -631,10 +733,12 @@ diapungkeun|diterbangkan
 diarahkeun|diarahkan
 diartikeun|diartikan
 diasosiasikeun|diasosiasikan
-diasupkeun|dijebloskan, dimasukkan
+diasupkeun|dimasukkan
+diasupkeun|dijebloskan
 diatur|diatur
 diawurkeun|ditebarkan
-diayakeun|diadakan, diselenggarakan
+diayakeun|diselenggarakan
+diayakeun|diadakan
 diayakeunana|diadakannya
 dibabantukeun|diperbantukan
 dibaca|dibaca
@@ -645,20 +749,24 @@ dibahas|dibahas
 dibajo|dibajak
 dibakukeun|dibakukan
 dibalukarkeun|diakibatkan
-dibandingkeun|dibanding, dibandingkan
+dibandingkeun|dibandingkan
+dibandingkeun|dibanding
 dibantuan|dibantu
 dibarengan|disertai
 dibarung|disertai
 dibaturan|ditemani
 dibawa|dibawa
 dibedahkeun|dikuras
-dibenerkeun|dibenarkan, dikoreksi, diperbaiki
+dibenerkeun|diperbaiki
+dibenerkeun|dikoreksi
+dibenerkeun|dibenarkan
 dibersihkeun|dibersihkan
 dibeuleum|dipanggang
 dibeuli|dibeli
 dibeungbeuratan|dibebani
 dibiasakeun|dibiasakan
-dibikeun|diberikan, diserahkan
+dibikeun|diserahkan
+dibikeun|diberikan
 dibinasakeun|dimusnahkan
 dibiruyungan|disertai
 diboncengan|diboncengi
@@ -667,7 +775,8 @@ dibungkus|dibungkus
 dibeda-bedakeun|dibeda-bedakan
 dibedakeun|dibedakan
 dibejakeun|diberitahukan
-dibere|diberi, dikasih
+dibere|dikasih
+dibere|diberi
 dibere nyaho|diberitahu
 dicampur|dicampur
 dicatet|dicatat
@@ -677,7 +786,8 @@ dicelukkeun|diserukan
 dicempad|dikecam
 dicicikeun|dituangkan
 dicicil|dicicil
-dicicingan|berpenghuni, dihuni
+dicicingan|dihuni
+dicicingan|berpenghuni
 dicindekkeun|ditentukan
 diciptakeun|diciptakan
 diciptakeunana|diciptakannya
@@ -690,8 +800,10 @@ didadarkeun|dipaparkan
 didatangan|dikunjungi
 didesek|didesak
 dideukeutan]]|didekati
-dieu|sini, sinilah
-dieureunkeun|diberhentikan, dihentikan
+dieu|sinilah
+dieu|sini
+dieureunkeun|dihentikan
+dieureunkeun|diberhentikan
 dieusi|diisi
 digalurakeun|digelorakan
 diganjar|dibalas
@@ -718,18 +830,22 @@ diharepkeun|diharapkan
 dihasilkeun|dihasilkan
 diheulakeun|didahulukan
 dihijikeun|disatukan
-dihontal|dicapai, diraih
+dihontal|diraih
+dihontal|dicapai
 dihuapan|disuapi
 dihubungan|dihubungi
 dihudang|digugah
 dihukum|dihukum
 diidek|diinjak
-diidinan|diizinkan, diperkenankan
+diidinan|diperkenankan
+diidinan|diizinkan
 diinget|diingat
 diingetan|diingatkan
 diingkeun|dibiarkan
 diinjeum|dipinjam
-diitung|dibilang, dihitung, diperhitungkan
+diitung|diperhitungkan
+diitung|dihitung
+diitung|dibilang
 dijabel|disita
 dijadikeun|dijadikan
 dijadikeun-Na|dijadikan-nya
@@ -738,14 +854,17 @@ dijalankeun|dijalankan
 dijangjian|dijangjikan
 dijelaskeun|dijelaskan
 dijemput|dijemput
-dijieun|dibentuk, dibuat, terbuat
+dijieun|terbuat
+dijieun|dibuat
+dijieun|dibentuk
 dijual|dijual
 dijudulan|berjudul
 dijungjung|dijunjung
 dikadalikeun|dikendalikan
 dikadoan|dihadiahi
 dikaitkeun|dikaitkan
-dikaluarkeun|dikeluarkan, dikerahkan
+dikaluarkeun|dikerahkan
+dikaluarkeun|dikeluarkan
 dikamanakeun|dikemanakan
 dikantongan|dikantongi
 dikaput|dijahit
@@ -757,7 +876,8 @@ dikeukeup|dipeluk
 dikirim|dikirim
 dikirimkeun|dikirimkan
 diklat|diklat
-dikokolakeun|dikelola, diolah
+dikokolakeun|diolah
+dikokolakeun|dikelola
 dikompilasi|dikompilasi
 dikontrak|dikontrak
 dikontrakkeun|dikontrakkan
@@ -767,11 +887,13 @@ dikosongkeun|dikosongkan
 dikunjal|diangkut
 dikeceng|dibidik
 dilakonan|dilakoni
-dilaksanakeun|digelar, dilaksanakan
+dilaksanakeun|dilaksanakan
+dilaksanakeun|digelar
 dilaksanakeunana|direalisasikannya
 dilancarkeun|dilancarkan
 dilapisan|dilapisi
-dilaporkeun|diadukan, dilaporkan
+dilaporkeun|dilaporkan
+dilaporkeun|diadukan
 dilarang|dilarang
 dilarapkeun|diterapkan
 dilayanan|dilayani
@@ -784,23 +906,30 @@ diluuhan|dihadiran
 dilengkahan|dilangkahi
 dimangpaatkeun|dimanfaatkan
 dimeunangkeun|dimenangkan
-dimimitian|bermula, diawali, dimulai
+dimimitian|dimulai
+dimimitian|diawali
+dimimitian|bermula
 dimodifikasi|dimodifikasi
-dina|dalam, pada
+dina|pada
+dina|dalam
 dina raraga|dalam rangka
 dinamis|dinamis
 dines|dinas
 dingaranan|dinamakan
-dinya|situ, situlah
+dinya|situlah
+dinya|situ
 dinyatakeun|dinyatakan
-diomongkeun|dibicarakan, dituturkan
+diomongkeun|dituturkan
+diomongkeun|dibicarakan
 diondang|diundang
 dioperkeun|dilimpahkan
 dioyag|diguncang
 dipager|dipagar
 dipageran|dipagari
 dipahaman|dipahami
-dipake|digunakan, dipakai, dipergunakan
+dipake|dipergunakan
+dipake|dipakai
+dipake|digunakan
 dipakena|digunakannya
 dipangaruhan|dipengaruhi
 dipanggihan|ditemui
@@ -819,17 +948,21 @@ dipegatkeun|diputuskan
 dipenggel|disekat
 dipenjara|dipenjara
 dipercaya|dipercayai
-diperlukeun|dibutuhkan, diperlukan
+diperlukeun|diperlukan
+diperlukeun|dibutuhkan
 dipeunteun|dinilai
 dipeupeuskeun|dipecahkan
 dipibanda|didapat
 dipiboga|dimiliki
 dipiceun|dibuang
-dipigawe|dikerjakan, dilakukan
+dipigawe|dilakukan
+dipigawe|dikerjakan
 dipigawe ku manehna|dilakukannya
-dipihormat|dihormati, terhormat
+dipihormat|terhormat
+dipihormat|dihormati
 dipikanyaho|diketahui
-dipikawanoh|dikenal, dikenali
+dipikawanoh|dikenali
+dipikawanoh|dikenal
 dipikir|dipikir
 dipilih|dipilih
 dipilihna|dipilihnya
@@ -846,7 +979,8 @@ dipuji|disanjung
 dipulangkeun|dikembalikan
 dipulasara|dipelihara
 dipunggu|diusung
-dipungkas|diakhiri, diselesaikan
+dipungkas|diselesaikan
+dipungkas|diakhiri
 dipupuhuan|diketuai
 dipuseurkeun|dipusatkan
 dipenta|diminta
@@ -876,7 +1010,8 @@ disaluyukeun|disesuaikan
 disamarutkeun|disamaratakan
 disampurnakeun|disempurnakan
 disanghareupan|dihadapi
-disangka|diduga, ditengarai
+disangka|ditengarai
+disangka|diduga
 disangka ku kuring|saya kira
 disangkana|disangkanya
 disaruakeun|disamakan
@@ -885,12 +1020,14 @@ disawalakeun|diperdebatkan
 disebarkeun|disebarkan
 disebut|disebut
 disebut-sebut|disebut-sebut
-disebutkeun|dikatakan, disebutkan
+disebutkeun|disebutkan
+disebutkeun|dikatakan
 disebutna|disebutnya
 disembah|disembah
 diserep|diserap
 diseureud|disengat
-disiapkeun|dipersiapkan, disiapkan
+disiapkeun|disiapkan
+disiapkeun|dipersiapkan
 disiplin|disiplin
 diskriminasi|diskriminasi
 disponsoran|disponsori
@@ -908,7 +1045,8 @@ ditahan|ditahan
 ditakol|dipukul
 ditakolan|dipukuli
 ditalukkeun|ditaklukkan
-ditalungtik|diselidiki, diteliti
+ditalungtik|diteliti
+ditalungtik|diselidiki
 ditambah|ditambah
 ditambahkeun|ditambahkan
 ditambal|ditambal
@@ -925,17 +1063,20 @@ ditapsirkeun|ditafsirkan
 ditarima|diterima
 ditarjamahkeun|diterjemahkan
 ditaros|ditanyai
-ditarekahan|diupayakan, diusahakan
+ditarekahan|diusahakan
+ditarekahan|diupayakan
 ditatanyakeun|dipertanyakan
 ditawaran|ditawari
 ditawarkeun|ditawarkan
 ditaekkeun|dinaikkan
-ditelepon|ditelepon, ditelpon
+ditelepon|ditelpon
+ditelepon|ditelepon
 ditembrakkeun|ditunjukkan
 ditembus|ditembus
 ditempatan|ditempati
 ditempatkeun|ditempatkan
-ditempo|dilihat, dipandang
+ditempo|dipandang
+ditempo|dilihat
 ditepikeun|disampaikan
 ditepungan|dijumpai
 diteruskeun|diteruskan
@@ -948,11 +1089,13 @@ dititah|disuruh
 ditu|sana
 ditugaskeun|ditugaskan
 ditukeur|ditukar
-ditulis|ditulis, tertulis
+ditulis|tertulis
+ditulis|ditulis
 dituliskeun|dituliskan
 dituluykeun|dilanjutkan
 ditumpakan|dikendarai
-ditumpes|diberantas, ditumpas
+ditumpes|ditumpas
+ditumpes|diberantas
 ditunda|disimpan
 ditungkulan|diatasi
 ditungtungan|diakhiri
@@ -968,16 +1111,19 @@ ditembalan|dijawab
 ditempel|ditempel
 diteror|diteror
 dites|dites
-ditewak|dibekuk, ditangkap
+ditewak|ditangkap
+ditewak|dibekuk
 diudag|dikejar
 diudag-udag|dikejar-kejar
 diuk|duduk
-diungkabkeun|dikemukakan, diungkapkan
+diungkabkeun|diungkapkan
+diungkabkeun|dikemukakan
 diungkulan|ditanggulangi
 diutus|diutus
 diwajibkeun|diwajibkan
 diwakilan|diwakili
-diwangun|dibangun, terdiri
+diwangun|terdiri
+diwangun|dibangun
 diwangunna|dibentuknya
 diwanohkeun|diperkenalkan
 diwarnaan|diwarnai
@@ -988,7 +1134,8 @@ diwilah-wilah|dipilah-pilah
 diwuwuhan|ditumbuhi
 diekstradisi|diekstradisi
 dielehkeun|dikalahkan
-diembarkeun|dicanangkan, dicanangkanlah
+diembarkeun|dicanangkanlah
+diembarkeun|dicanangkan
 dobel|ganda
 doktor|doktor
 doktrin|doktrin
@@ -1004,15 +1151,21 @@ dua|dua
 dua satengah|duasetengah
 dua-pertilu|dua-pertiga
 duaan|berdua
-duanana|dua-duanya, kedua-duanya, keduanya
+duanana|keduanya
+duanana|kedua-duanya
+duanana|dua-duanya
 dubur|dubur
 duduluran|bersaudara
 dugal|kasar
-duit|duit, uang
+duit|uang
+duit|duit
 duitna|duitnya
 dukung|dukung
-dumadakan|mendadak, tiba-tiba
-dumasar|berdasar, berdasarkan, didasari
+dumadakan|tiba-tiba
+dumadakan|mendadak
+dumasar|didasari
+dumasar|berdasarkan
+dumasar|berdasar
 dumasar kana|dilandasi
 dunya|dunia
 duplikat|duplikat
@@ -1047,12 +1200,15 @@ eumeur|memar
 eunteung|cermin
 eunteup|hinggap
 eupan|umpan
-eureun|berhenti, berhentilah
+eureun|berhentilah
+eureun|berhenti
 eureunkeun|hentikan
 eureunna|penghentian
 eusi|isi
-eusina|berisi, [[isinya]
-euweuh|tiada, tidak ada
+eusina|[[isinya]
+eusina|berisi
+euweuh|tidak ada
+euweuh|tiada
 evakuasi|evakuasi
 fakultas|fakultas
 fasilitasna|fasilitasnya
@@ -1068,7 +1224,8 @@ gabungan|gabungan
 gading|gading
 gado|dagu
 gagal|gagal
-gaganti|pengganti, substitusi
+gaganti|substitusi
+gaganti|pengganti
 gagantina|penggantinya
 gagarabah|keramik
 gaib|gaib
@@ -1082,10 +1239,12 @@ galeri|galeri
 gambar|gambar
 gambaran|kesan
 gambuhang|rakus
-gampang|gampang, mudah
+gampang|mudah
+gampang|gampang
 gampangna|mudahnya
 ganas|nenas
-gancang|cepat, kencang
+gancang|kencang
+gancang|cepat
 gandong|gendong
 gangguan|gangguan
 ganjor|selisih
@@ -1103,7 +1262,8 @@ gas|gas
 gasna|gasnya
 gawir|tebing
 gawe|kerja
-gawe babarengan|kerja sama, kerjasama
+gawe babarengan|kerjasama
+gawe babarengan|kerja sama
 gawena|perbuatan
 gaya|gaya
 gebrag|gebrak
@@ -1128,13 +1288,16 @@ geter|getaran
 getih|darah
 getihan|berdarah
 getol|rajin
-geulis|cantik, jelita
+geulis|jelita
+geulis|cantik
 geulis kawanti-wanti|cantik jelita
-geuneuk|lebam, membiru
+geuneuk|membiru
+geuneuk|lebam
 geunjleung|heboh
 geunyal|kenyal
 geura-giru|segera
-geus|sudah, telah
+geus|telah
+geus|sudah
 geutah|getah
 geuwat|cepatlah
 gigireun / sabeulah|samping
@@ -1150,7 +1313,8 @@ gogolencengan|terguling-guling
 golongan|kalangan
 gorolong|gelinding
 gorowok|teriak
-goreng|buruk, goreng
+goreng|goreng
+goreng|buruk
 gorengna|gorengnya
 granat|granat
 grup|grup
@@ -1162,9 +1326,11 @@ gujrud|heboh
 gula|gula
 gulat|gulat
 gulawing|berayun
-guludug|halilintar, petir
+guludug|petir
+guludug|halilintar
 gumantung|tergantung
-gumbira|senang, senang hati
+gumbira|senang hati
+gumbira|senang
 gunana|gunanya
 gunta-ganti|bergantian
 gunung|gunung
@@ -1175,7 +1341,8 @@ gurinjal|gelinjang
 guru|guru
 gegelehean|tidur-tiduran
 gelo|gila
-gender|gender, jenis kelamin
+gender|jenis kelamin
+gender|gender
 geologi|geologi
 geser|geser
 getek|geli
@@ -1187,7 +1354,8 @@ hajat|hajat
 haji|haji
 hak|hak
 hakim|hakim
-hal|hal, ihwal
+hal|ihwal
+hal|hal
 halangan|halangi
 haleungheum|mendung
 halimpu|merdu
@@ -1220,8 +1388,10 @@ harigu|dada
 hariring|senandung
 hariwang|khawatir
 harta|harta
-harti|arti, makna
-hartina|artinya, berarti
+harti|makna
+harti|arti
+hartina|berarti
+hartina|artinya
 hartosna|berarti
 has|khas
 hasanah|khazanah
@@ -1232,31 +1402,41 @@ hasilna|hasilnya
 hateup|atap
 hatur nuhun|terima kasih
 hate|hati
-hawa|hawa, udara
+hawa|udara
+hawa|hawa
 hawar-hawar|sayup-sayup
 hayam|ayam
-hayang|inginkan, ingin, pengen, pingin
+hayang|pingin
+hayang|pengen
+hayang|ingin
+hayang|inginkan
 hayangeun|menginginkan
-hayu|mari, ayo
-henteu|enggak, tidak
+hayu|ayo
+hayu|mari
+henteu|tidak
+henteu|enggak
 herbivora|herbivora
 heroik|heroik
 heuay|menguap
-heureut|ketat, sempit
+heureut|sempit
+heureut|ketat
 heureutna|sempitnya
 hibarna|berkibarnya
 hiber|terbang
 hiburan|hiburan
 hideung|hitam
 hiem|ringkik
-hiji|satu, sebuah, suatu
+hiji|suatu
+hiji|sebuah
+hiji|satu
 hiji hal|sesuatu
 hiji jalma|seseorang
 hiji-hijina|satu-satunya
 hijian|satuan
 hikmah|hikmah
 hileud|ulat
-hiliwir|sepoi, sepoi-sepoi
+hiliwir|sepoi-sepoi
+hiliwir|sepoi
 hinis|sembilu
 hipu|empuk
 hirup|hidup
@@ -1274,7 +1454,8 @@ hubungan|hubungan
 hubunganana|hubungannya
 hujan|hujan
 hukum|hukum
-hukuman|hukuman, sanksi
+hukuman|sanksi
+hukuman|hukuman
 humandeuar|mengeluh
 huntu|gigi
 hurang|udang
@@ -1287,12 +1468,15 @@ hejo|hijau
 hektar|hektare
 heot|siul
 herang|bening
-hese|sulit, susah
-hesena|sulitnya, susahnya
+hese|susah
+hese|sulit
+hesena|susahnya
+hesena|sulitnya
 hoream|malas
 ibun|embun
 ideu|ide
-idin|ijin, izin
+idin|izin
+idin|ijin
 ideal|ideal
 identik|identik
 ideologi|ideologi
@@ -1303,12 +1487,15 @@ ilmiah|ilmiah
 imah|rumah
 imah kuring|rumahku
 imahna|rumahnya
-iman|berimanlah, iman
+iman|iman
+iman|berimanlah
 impor|impor
 imunisasi|imunisasi
 imut|tersenyum
 incu|cucu
-indit|berangkat, bertolak, pergi
+indit|pergi
+indit|bertolak
+indit|berangkat
 indit-inditan|bepergian
 indung|bunda
 indungna|ibunya
@@ -1344,15 +1531,19 @@ islam|islam
 israel|israel
 istilah|istilah
 istimiwa|istimewa
-isuk|besok, keesokan, mendatang
-isuk-isuk|pagi, pagi-pagi
+isuk|mendatang
+isuk|keesokan
+isuk|besok
+isuk-isuk|pagi-pagi
+isuk-isuk|pagi
 isukan|besok
 iteuk|tongkat
 itung|hitung
 itungan|perhitungan
 iwal|kecuali
 jabatanna|jabatannya
-jadi|jadi, menjadi
+jadi|menjadi
+jadi|jadi
 jadi garing|mengering
 jadwal|jadwal
 jaga|kelak
@@ -1372,7 +1563,8 @@ jalma|orang
 jalma-jalmana|orang-orangnya
 jalu|jantan
 jam|jam
-jamaah|jamaah, jemaah
+jamaah|jemaah
+jamaah|jamaah
 jaman|zaman
 jambu|jambu
 jaminan|jaminan
@@ -1380,10 +1572,12 @@ jampe|jampi
 jamu|jamu
 jandela|jendela
 jangjang|sayap
-jangji|berjanji, janji
+jangji|janji
+jangji|berjanji
 jangji-pasini|perjanjian
 jangkung|jangkung
-jangkungna|ketinggian, tingginya
+jangkungna|tingginya
+jangkungna|ketinggian
 januari|januari
 japati|merpati
 jaram|kuman
@@ -1391,7 +1585,8 @@ jasa|jasa
 jauhna|jauhnya
 jawab|jawab
 jawabanana|penyelesaiannya
-jawara|juara, pendekar
+jawara|pendekar
+jawara|juara
 jaya|jaya
 jebi|cibir
 jeger|kaku
@@ -1411,9 +1606,14 @@ jerona|dalamnya
 jeruk|jeruk
 jerukna|jeruknya
 jibril|jibril
-jieunan|bentukan, buatan
-jiga|kayak, mirip
-jigana|ada kemungkinan, kayaknya, kemungkinan, sepertinya
+jieunan|buatan
+jieunan|bentukan
+jiga|mirip
+jiga|kayak
+jigana|sepertinya
+jigana|kemungkinan
+jigana|kayaknya
+jigana|ada kemungkinan
 jiwa|jiwa
 jiwana|jiwanya
 jiwir|jewer
@@ -1422,7 +1622,8 @@ jomantara|angkasa
 jorowokan|teriakin
 jual|jual
 judi|judi
-jujur|jujur, terus terang
+jujur|terus terang
+jujur|jujur
 jukut|rumput
 jukutan|berumput
 juli|juli
@@ -1442,7 +1643,9 @@ jurusan|jurusan
 juta|juta
 jutaan|jutaan
 jendral|jendral
-ka|ke, kepada, terhadap
+ka|terhadap
+ka|kepada
+ka|ke
 ka diri|pada diri
 ka mana oge|kemanapun
 kaadilan|keadilan
@@ -1459,7 +1662,10 @@ kaanehan|keanehan
 kaasih|kasih
 kaasup|termasuk
 kaasupan|kemasukan
-kaayaan|keadaan, kondisi, situasi, suasana
+kaayaan|suasana
+kaayaan|situasi
+kaayaan|kondisi
+kaayaan|keadaan
 kabagi|terbagi
 kabagjaan|kebahagiaan
 kabangsaan|kebangsaan
@@ -1470,13 +1676,15 @@ kabel|kabel
 kabentuk|terbentuk
 kaberesihan|kebersihan
 kabetot|tertarik
-kabeuleum|terbakar, terpanggang
+kabeuleum|terpanggang
+kabeuleum|terbakar
 kabeuratan|keberatan
 kabiasaan|kebiasaan
 kabina-bina|keterlaluan
 kabinet|kabinet
 kabiruyungan|terwujud
-kabogoh|kekasih, pacar
+kabogoh|pacar
+kabogoh|kekasih
 kabogohna|pacarnya
 kabongkar|terbongkar
 kabudayaan|kebudayaan
@@ -1490,7 +1698,9 @@ kabehanana|semuanya
 kacamatan|kecamatan
 kacatet|tercatat
 kaceluk|terkenal
-kaci|boleh, dibolehkan, diperbolehkan
+kaci|diperbolehkan
+kaci|dibolehkan
+kaci|boleh
 kacicikeun|tertuang
 kacilakaan|kecelakaan
 kacindekan|kesimpulan
@@ -1515,7 +1725,8 @@ kadupak|tersenggol
 kade|awas
 kadenge|terdengar
 kaeureunkeun|terhenti
-kaeusi|terisi, terkandung
+kaeusi|terkandung
+kaeusi|terisi
 kagabung|tergabung
 kagagalan|kegagalan
 kagamah|terganggu
@@ -1523,8 +1734,10 @@ kagambarkeun|tergambarkan
 kaganggu|terganggu
 kageulisan|kecantikan
 kagiatan|kegiatan
-kagiatanana|aktivitasnya, kegiatannya
-kagok|telanjur, terlanjur
+kagiatanana|kegiatannya
+kagiatanana|aktivitasnya
+kagok|terlanjur
+kagok|telanjur
 kagumantungan|ketergantungan
 kagumantunganana|ketergantungannya
 kahakiman|kehakiman
@@ -1538,7 +1751,8 @@ kahijina|pertamanya
 kahilapan|kekhilafan
 kahirupan|kehidupan
 kahirupanana|kehidupannya
-kahontal|tercapai, terjangkau
+kahontal|terjangkau
+kahontal|tercapai
 kahoream|keengganan
 kahot|ternama
 kahumandeuar|keluhan
@@ -1549,7 +1763,8 @@ kaitan|kaitan
 kaitanana|kaitannya
 kaitung|terbilang
 kajaba|kecuali
-kajadian|kejadian, peristiwa
+kajadian|peristiwa
+kajadian|kejadian
 kajaga|terjaga
 kajaksaan|kejaksaan
 kajembaran|kelapangan
@@ -1557,7 +1772,8 @@ kajeun|biar
 kakawasaan|kekuasaan
 kakayaan|kekayaan
 kakejeman|kekejaman
-kakeueum|terendam, tergenang
+kakeueum|tergenang
+kakeueum|terendam
 kakeunaan|terkena
 kakeupeul|tergenggam
 kakoncara|terkenal
@@ -1592,7 +1808,8 @@ kaliwat|lalu
 kalolobaan|sebagian besar
 kaluar|keluar
 kaluman|kesal
-kalungguhan|jabatan, kedudukan
+kalungguhan|kedudukan
+kalungguhan|jabatan
 kalurahan|kelurahan
 kaler|utara
 kamaheran|kemahiran
@@ -1603,7 +1820,8 @@ kamandirian|kemandirian
 kamangmang|keraguan
 kamanusaan|kemanusiaan
 kamar|kamar
-kamari|kemarin, kemaren
+kamari|kemaren
+kamari|kemarin
 kamasarakatan|kemasyarakatan
 kamekaran|kemekaran
 kamerdikaan|kemerdekaan
@@ -1618,7 +1836,8 @@ kamera|kamera
 kana kajadian|atas terjadinya
 kanabian|kenabian
 kanagaraan|kenegaraan
-kanaekan|kenaikan, peningkatan
+kanaekan|peningkatan
+kanaekan|kenaikan
 kanceuh|kambuh
 kandel|tebal
 kandelna|tebalnya
@@ -1636,14 +1855,16 @@ kapaksa|terpaksa
 kapake|berguna
 kapal|kapal
 kapamingpinan|kepemimpinan
-kapanggih|ditemukan, kedapatan
+kapanggih|kedapatan
+kapanggih|ditemukan
 kapanggihna|ditemukannya
 kapangeranan|ketuhanan
 kapastian|kepastian
 kapegatkeun|terputus
 kapentingan|kepentingan
 kapercayaan|kepercayaan
-kaperluan|kebutuhan, keperluan
+kaperluan|keperluan
+kaperluan|kebutuhan
 kaperluanana|keperluannya
 kapidara|pingsan
 kapikir|terpikir
@@ -1675,7 +1896,8 @@ karinjang|keranjang
 karir|karir
 kartu|kartu
 karuhun|leluhur
-karuksakan|karusakan, kerusakan
+karuksakan|kerusakan
+karuksakan|karusakan
 karuksakanana|kerusakannya
 karembong|selendang
 karet|karet
@@ -1686,7 +1908,9 @@ kasalahan|kesalahan
 kasalamatenana|keselamatannya
 kasalametan|keselamatan
 kasalempang|kekhawatiran
-kasampak|tampak, tampaknya, terlihat
+kasampak|terlihat
+kasampak|tampaknya
+kasampak|tampak
 kasang|latar
 kasangka|tersangka
 kasapukan|kesepakatan
@@ -1695,10 +1919,12 @@ kasarean|ketiduran
 kasasar|tersesat
 kasatiaan|kesetiaan
 kasebut|tersebut
-kasempetan|kesempatan, peluang
+kasempetan|peluang
+kasempetan|kesempatan
 kasenian|kesenian
 kasiangan|kesiangan
-kasinugrahan|anugerah, anugrah
+kasinugrahan|anugrah
+kasinugrahan|anugerah
 kasorang|teralami
 kasulitan|kesulitan
 kasusna|kasusnya
@@ -1736,7 +1962,8 @@ katutupan|tertutupi
 katembak|tertembak
 katembong|terlihat
 kaukur|terukur
-kaulinan|mainan, permainan
+kaulinan|permainan
+kaulinan|mainan
 kaum|kaum
 kaungkab|terungkap
 kauntungan|keuntungan
@@ -1746,7 +1973,9 @@ kawajiban|kewajiban
 kawajibanana|kewajibannya
 kawalahan|kewalahan
 kawanohan|kenalan
-kawas|bagaikan, seakan, seperti
+kawas|seperti
+kawas|seakan
+kawas|bagaikan
 kawas lamun|seolah
 kawasa|kuasa
 kawates|terbatas
@@ -1772,7 +2001,8 @@ keker|kekar
 kelas|kelas
 kelir|warna
 kemba|pemalu
-kembang|bunga, kembang
+kembang|kembang
+kembang|bunga
 kemis|kamis
 kemot|kulum
 kempes|kempes
@@ -1796,20 +2026,25 @@ kewung|cekung
 kiamat|kiamat
 kiceupan|kedipan
 kidul|selatan
-kieu|begini, gini
+kieu|gini
+kieu|begini
 kiih|kencing
 kikiping|roda
 kilometer|kilometer
-kios|gerai, kios
+kios|kios
+kios|gerai
 kiosna|kiosnya
 kira|kira
-kira-kira|sinyalemen, sekitar
+kira-kira|sekitar
+kira-kira|sinyalemen
 kirana|kiranya
 kirim|kirim
 kiriman|pasokan
 kiruh|keruh
 kitab|kitab
-kitu|begitu, demikian, gitu
+kitu|gitu
+kitu|demikian
+kitu|begitu
 kitu deui|lagi-lagi
 kitu pisan|begitulah
 kiwari|kini
@@ -1821,7 +2056,9 @@ kokoro|melarat
 kokotor|kotoran
 kolonial|kolonial
 kolonel|kolonel
-kolot|orangtua, tua, orang tua
+kolot|orang tua
+kolot|tua
+kolot|orangtua
 kolotna|orang tuanya
 kolecer|baling-baling
 koma|koma
@@ -1854,7 +2091,8 @@ konsumen|konsumen
 konsep|konsep
 kontak|kontak
 koneksi|koneksi
-koneng|kuning, kunyit
+koneng|kunyit
+koneng|kuning
 koperasi|koperasi
 kopi|kopi
 koran|koran
@@ -1877,14 +2115,17 @@ kritik|kritik
 kritis|kritis
 ku|oleh
 ku cara|dengan cara
-ku kituna|dengan demikian, untuk itu, sehingga
+ku kituna|sehingga
+ku kituna|untuk itu
+ku kituna|dengan demikian
 ku sorangan|dengan sendirinya
 kualitas|kualitas
 kualitasna|kualitasnya
 kuat|kuat
 kuciwana|kecewana
 kuda|kuda
-kudu|harus, mesti
+kudu|mesti
+kudu|harus
 kudu mayar|berbayar
 kudeta|kudeta
 kueh|kue
@@ -1901,7 +2142,8 @@ kulimis|kelimis
 kulit|kulit
 kulon|barat
 kulub|rebus
-kumaha|bagaimana, gimana
+kumaha|gimana
+kumaha|bagaimana
 kumaha oge|bagaimanapun
 kumbah|cuci
 kumis|kumis
@@ -1924,7 +2166,8 @@ keceng|bidik
 kecengan|bidikan
 kede|kidal
 keder|keder
-kelek|ketek, ketiak
+kelek|ketiak
+kelek|ketek
 kenca|kiri
 kenca-katuhu|kiri-kanan
 keom|tersenyum
@@ -1939,16 +2182,21 @@ laha-loho|melihat-lihat
 lahan|lahan
 lahanna|lahannya
 lahir|lahir
-lain|bukan, bukanlah
-lainna|bukankah, bukannya
+lain|bukanlah
+lain|bukan
+lainna|bukannya
+lainna|bukankah
 laja|lengkuas
 lajur|kolom
 laki-rabi|rumah tangga
 laksamana|laksamana
 laku|laku
 laku-lampah|perilaku
-lalajo|menonton, nonton
-lalaki|lelaki, laki-laki, pria
+lalajo|nonton
+lalajo|menonton
+lalaki|pria
+lalaki|laki-laki
+lalaki|lelaki
 lalakon|peranan
 lalampahan|perjalanan
 lalangse|tirai
@@ -1960,17 +2208,26 @@ lambak|gelombang
 lambang|lambang
 lambar lawon|buah kain
 lambokot|belepotan
-lampah|kelakuan, tindak
+lampah|tindak
+lampah|kelakuan
 lamping|lereng
 lampu|lampu
-lamun|apabila, bila, jika, kalau, kalaupun, kalo, seandainya
+lamun|seandainya
+lamun|kalo
+lamun|kalaupun
+lamun|kalau
+lamun|jika
+lamun|bila
+lamun|apabila
 lamur|rabun
 lancah|laba-laba
 lancar|lancar
 lanceuk|kakak
 landeuh|lembah
-landian|alias, julukan
-langganan|langganan, pelanggan
+landian|julukan
+landian|alias
+langganan|pelanggan
+langganan|langganan
 langgananna|pelanggannya
 langgeng|abadi
 langit|langit
@@ -1988,7 +2245,8 @@ laporan|laporan
 laporanana|laporannya
 larangan|larangan
 laras|laras
-latihan|berlatih, latihan
+latihan|latihan
+latihan|berlatih
 lauk|ikan
 laun|lambat
 laut|laut
@@ -1997,7 +2255,8 @@ lawon|kain
 layan|layan
 layanan|layanan
 layar|layar
-layon|jenazah, mayat
+layon|mayat
+layon|jenazah
 laer|jauh
 lebaran|lebaran
 lebu|abu
@@ -2020,23 +2279,29 @@ leungeun|tangan
 leungeunnya|tangannya
 leungit|hilang
 leungitna|hilangnya
-leupas|lolos, terlepas
+leupas|terlepas
+leupas|lolos
 leuseuh|lusuh
 leutak|lumpur
 leutik|kecil
 leuweung|hutan
 leuweung tutupan|hutan lindung
 leuwi|lubuk
-leuwih|lebih, terlebih
+leuwih|terlebih
+leuwih|lebih
 leuwih hade|sebaiknya
 leuwih jero|lebih dalam
-leuwih tiheula|lebih dahulu, lebih dulu, terlebih dahulu, terlebih dulu
+leuwih tiheula|terlebih dulu
+leuwih tiheula|terlebih dahulu
+leuwih tiheula|lebih dulu
+leuwih tiheula|lebih dahulu
 liang|lubang
 lianna|lainnya
 licik|licik
 lieur|pusing
 lila|lama
-lila-lila|lama kelamaan, lama-kelamaan
+lila-lila|lama-kelamaan
+lila-lila|lama kelamaan
 lilana|lamanya
 lima|lima
 limaan|berlima
@@ -2045,7 +2310,8 @@ limpeuran|pelupa
 lin dan|lin dan
 lindeuk|jinak
 lingkungan|lingkungan
-lini|gempa, lindu
+lini|lindu
+lini|gempa
 lintuh|montok
 linyok|menipu
 lipet|lipat
@@ -2056,11 +2322,13 @@ lisensi|lisensi
 liter|liter
 liwar|bandel
 liwat|lewat
-loba|banyak, jamak
+loba|jamak
+loba|banyak
 lobana|banyaknya
 logor|longgar
 loka|situs
-lokasi|letak, lokasi
+lokasi|lokasi
+lokasi|letak
 lolobana|kebanyakan
 lolong|buta
 lomari|lemari
@@ -2070,20 +2338,26 @@ lowongan|lowongan
 luar|luar
 lucir|berminyak
 lucu|lucu
-luhur|atas, tinggi
-luhurna|atasnya, ketinggiannya, luhurnya
+luhur|tinggi
+luhur|atas
+luhurna|luhurnya
+luhurna|ketinggiannya
+luhurna|atasnya
 lukut|lumut
 lulugu|pimpinan
 lulumpatan|berlarian
 lulus|lulus
 lulusan|lulusan
 lumaku|berlaku
-lumangsung|berlangsung, terjadi
+lumangsung|terjadi
+lumangsung|berlangsung
 lumayan|lumayan
-lumpat|berlari, lari
+lumpat|lari
+lumpat|berlari
 luncat|loncat
 luyu|sesuai
-leho|iler, ingus
+leho|ingus
+leho|iler
 lelepen|cincin
 lencop|lancip
 lengkah|langkah
@@ -2098,7 +2372,8 @@ leeh|meleleh
 ma'lum|maklum
 mabek|pengap
 mabok|mabuk
-maca|baca, membaca
+maca|membaca
+maca|baca
 macakal|berdikari
 macana|membacanya
 macangkrama|bercengkrama
@@ -2127,8 +2402,10 @@ makena|memakainya
 maksud|maksud
 maksudna|maksudnya
 makuta|mahkota
-make|memakai, mengenakan
-makena|memakainya, menggunakannya
+make|mengenakan
+make|memakai
+makena|menggunakannya
+makena|memakainya
 malahan|justru
 malang|malang
 malaekat|malaikat
@@ -2145,19 +2422,27 @@ mancegkeun|menancapkan
 mancing|memancing
 mancung|mancung
 mandi|mandi
-mangaruhan|memengaruhi, mempengaruhi
-mangga|baiklah, silahkan
-manggihan|menemui, menemukan, temukan
+mangaruhan|mempengaruhi
+mangaruhan|memengaruhi
+mangga|silahkan
+mangga|baiklah
+manggihan|temukan
+manggihan|menemukan
+manggihan|menemui
 manggu|manggis
 manggul|memikul
 mangka|maka
 mangnyieunkeun|membuatkan
 mangpaat|manfaat
 mangpaatna|manfaatnya
-mangrupa|berupa, merupakan
+mangrupa|merupakan
+mangrupa|berupa
 mangsa|masa
 mangtaun-taun|bertahun-tahun
-mani|semen, sperma, hingga, sampai
+mani|sampai
+mani|hingga
+mani|sperma
+mani|semen
 manjang|memanjang
 manjangkeun|memperpanjang
 mantuan|membantu
@@ -2165,13 +2450,18 @@ manuk|burung
 manusa|manusia
 manyun|manyun
 maneh|kamu
-manehna|dia, dialah, ia
+manehna|ia
+manehna|dialah
+manehna|dia
 maok|mencuri
-maot|meninggal, meninggal dunia
-maotna|kematiannya, wafatnya
+maot|meninggal dunia
+maot|meninggal
+maotna|wafatnya
+maotna|kematiannya
 mapag|menjemput
 mapalangan|menghalang-halangi
-marahmay|bersinar-sinar, ceria
+marahmay|ceria
+marahmay|bersinar-sinar
 maraneh|kalian
 maranehanana|mereka
 marengan|menemani
@@ -2182,15 +2472,19 @@ markas|markas
 markasna|markasnya
 markir|memarkir
 marentah|memerintah
-marentahkeun|memerintahkan, menginstruksikan
+marentahkeun|menginstruksikan
+marentahkeun|memerintahkan
 masak|memasak
-masalah|masalah, permasalahan, persoalan
+masalah|persoalan
+masalah|permasalahan
+masalah|masalah
 masalahna|masalahnya
 masangkeun|memasang
 masarakat|masyarakat
 masarkeunnana|memasarkannya
 masih|masih
-masjid|masjid, mesjid
+masjid|mesjid
+masjid|masjid
 massa|massa
 mastikeun|memastikan
 matak bisa|memungkinkan
@@ -2219,7 +2513,8 @@ mebes|menancap
 mecakan|mencoba
 mecenghul|muncul
 medal|terbit
-medar|beredar, menerbitkan
+medar|menerbitkan
+medar|beredar
 medarna|beredarnya
 meded|mendung
 megatkeun|memutuskan
@@ -2228,7 +2523,8 @@ melak|menanam
 melang|kuatir
 melendung|menggembung
 melengkungkeun|melengkungkan
-melong|memandang, menatap
+melong|menatap
+melong|memandang
 meleng|lengah
 mendet|membendung
 mending|lebih baik
@@ -2246,7 +2542,8 @@ mercayakeun|mempercayakan
 merdika|merdeka
 merenah|nyaman
 meres|memeras
-merlukeun|membutuhkan, memerlukan
+merlukeun|memerlukan
+merlukeun|membutuhkan
 mesen|memesan
 mesin|mesin
 mesek|mengupas
@@ -2254,7 +2551,11 @@ metot|menarik
 meujeuhna|layak
 meuleum|memanggang
 meuli|membeli
-meunang|diperbolehkan, memenangkan, memperoleh, menang, mendapat
+meunang|mendapat
+meunang|menang
+meunang|memperoleh
+meunang|memenangkan
+meunang|diperbolehkan
 meunangkeun|mendapatkan
 meuncit|menyembelih
 meungpeung|mumpung
@@ -2272,9 +2573,14 @@ migawe bareng|bekerjasama
 mihak|memihak
 miharep|mengharap
 mikaresep|menyukai
-mikawanoh|mengenal, mengenali, mengidentifikasi
-mikeun|memberi, memberikan, menyerahkan
-mikir|berpikir, mengira
+mikawanoh|mengidentifikasi
+mikawanoh|mengenali
+mikawanoh|mengenal
+mikeun|menyerahkan
+mikeun|memberikan
+mikeun|memberi
+mikir|mengira
+mikir|berpikir
 mikiran|memikirkan
 mikiranana|memikirkannya
 milampah|berperilaku
@@ -2284,27 +2590,36 @@ milik|milik
 milikna|milikna
 militer|militer
 milu|ikut
-miluan|ikutan, mengikuti, ambil bagian
-milyar|miliar, milyar
+miluan|ambil bagian
+miluan|mengikuti
+miluan|ikutan
+milyar|milyar
+milyar|miliar
 milyaran|milyaran
 milyarna|milyarnya
-mimiti|awal, mulai, pertama kali
+mimiti|pertama kali
+mimiti|mulai
+mimiti|awal
 mimitian|mulailah
-mimitina|awalnya, semula
+mimitina|semula
+mimitina|awalnya
 minangka|sebagai
 minantu|menantu
 mindah-mindahkeun|memindah-mindahkan
 mindahkeun|memindahkan
 mindahkeun (evakuasi)|mengevakuasi
-mindeng|kerap, sering
-minggu|minggu, pekan
+mindeng|sering
+mindeng|kerap
+minggu|pekan
+minggu|minggu
 mingguan|mingguan
 mingpin|memimpin
 mini|mini
 minoritas|minoritas
 mintonkeun|menampilkan
 mintul|tumpul
-minuhan|memadati, memenuhi
+minuhan|memenuhi
+minuhan|memadati
 minyak|minyak
 misahkeun|memisahkan
 misan|sepupu
@@ -2315,7 +2630,9 @@ mitohana|mertuanya
 mitra|mitra
 mitresna|mencintai
 mieling|memperingati
-moal|tidak akan, takkan, tak akan
+moal|tak akan
+moal|takkan
+moal|tidak akan
 mobil|mobil
 modal|modal
 mode|mode
@@ -2325,11 +2642,13 @@ moderen|moderen
 molotot|melotot
 momentum|momentum
 moncor|menerobos
-moncorong|menyorot, sorot
+moncorong|sorot
+moncorong|menyorot
 mondokkeun|memendekkan
 monyet|monyet
 mopohokeun|melupakan
-moro|berburu, memburu
+moro|memburu
+moro|berburu
 morosotna|kemerosotan
 motong|memotong
 motor|motor
@@ -2338,7 +2657,8 @@ muatan|muatan
 mudun|menurun
 muga|semoga
 muja|memuja
-muji|memuji, menyanjung
+muji|menyanjung
+muji|memuji
 muka|membuka
 muket|bergumul
 mulangkeun|mengembalikan
@@ -2365,8 +2685,12 @@ musieum|museum
 muslim|muslim
 muslimat|muslimat
 muslimin|muslimin
-mustahil|mustahil, nggak mungkin, tak mungkin, tidak mungkin
-muter|berputar, memutar
+mustahil|tidak mungkin
+mustahil|tak mungkin
+mustahil|nggak mungkin
+mustahil|mustahil
+muter|memutar
+muter|berputar
 meakkeun|menghabiskan
 media|media
 medis|medis
@@ -2375,7 +2699,9 @@ meja|meja
 mekanik|mekanik
 mekanikna|mekaniknya
 mengkol|belok
-menta|meminta, minta, mohon
+menta|mohon
+menta|minta
+menta|meminta
 merek|merk
 merkuri|merkuri
 mere|ngasih
@@ -2392,15 +2718,20 @@ nagarana|negaranya
 nagari|negeri
 nagen|mandek
 nagih|menagih
-naha|mengapa, apakah, kenapa
+naha|kenapa
+naha|apakah
+naha|mengapa
 nahan|menahan
 nakleuk|berduyun-duyun
 nakol|memukul
 nalangsara|menderita
 nalapung|menendang
 nalatahan|berpesan
-nalungtik|meneliti, menyelidiki
-nambahan|bertambah, menambah, menambahkan
+nalungtik|menyelidiki
+nalungtik|meneliti
+nambahan|menambahkan
+nambahan|menambah
+nambahan|bertambah
 nampa|menerima
 nampik|menolak
 nananyakeun|mempertanyakan
@@ -2417,7 +2748,8 @@ nanggung|menanggung
 nangkarak|terlentang
 nangtang|menantang
 nangtawing|curam
-nangtayungan|melindungi, proteksi
+nangtayungan|proteksi
+nangtayungan|melindungi
 nangtukeun|menentukan
 nangtung|berdiri
 nanjeurkeun|menandaskan
@@ -2434,7 +2766,9 @@ narajang|menyerang
 naraka|neraka
 nargetkeun|menargetkan
 narima|menerima
-narekahan|berupaya, mengupayakan, mengusahakan
+narekahan|mengusahakan
+narekahan|mengupayakan
+narekahan|berupaya
 nasib|nasib
 nasional|nasional
 nasrani|nasrani
@@ -2448,22 +2782,30 @@ negeskeun|menegaskan
 nelen|menelan
 nelepon|bertelepon
 nembus|menembus
-nempatkeun|menempatkan, penempatan
+nempatkeun|penempatan
+nempatkeun|menempatkan
 nempo|melihat
 nempokeun|memperlihatkan
-nengetan|memerhatikan, memperhatikan
+nengetan|memperhatikan
+nengetan|memerhatikan
 nenggel|telak
-nepi ka|hingga, sampai
+nepi ka|sampai
+nepi ka|hingga
 nepikeun|menyampaikan
-nepungan|menemui, menjumpai
+nepungan|menjumpai
+nepungan|menemui
 nerapkeun|menerapkan
 nerus|berlanjut
-neruskeun|melanjutkan, meneruskan, menindaklanjuti, ngelanjutin
+neruskeun|ngelanjutin
+neruskeun|menindaklanjuti
+neruskeun|meneruskan
+neruskeun|melanjutkan
 netepkeun|menetapkan
 neuleuman|mendalami
 neunggeul|memukul
 neunggeulan|memukuli
-nga|men, nge
+nga|nge
+nga|men
 nga-Indonesia|mengindonesia
 ngaalusan|membaik
 ngababarkeun|melahirkan
@@ -2479,7 +2821,9 @@ ngabajo|membajak
 ngabalangkeun|melempar
 ngabalanjaan|membelanjai
 ngabales|membalas
-ngabalukarkeun|mengakibatkan, menimbulkan, menyebabkan
+ngabalukarkeun|menyebabkan
+ngabalukarkeun|menimbulkan
+ngabalukarkeun|mengakibatkan
 ngabantuan|membantu
 ngabatesan|membatasi
 ngabatur|berteman
@@ -2488,11 +2832,13 @@ ngabayangkeun|membayangkan
 ngabejaan|memberitahu
 ngabekokan|mengentuti
 ngabeledag|menggelegar
-ngabenerkeun|membenarkan, memperbaiki
+ngabenerkeun|memperbaiki
+ngabenerkeun|membenarkan
 ngabenerkeunana|memperbaikinya
 ngabersihkeun|membersihkan
 ngabeuleum|membakar
-ngabeungbeuratan|membebani, memberatkan
+ngabeungbeuratan|memberatkan
+ngabeungbeuratan|membebani
 ngabeureumkeun|memerahkan
 ngabiayaan|membiayai
 ngabiluk|memihak
@@ -2504,7 +2850,8 @@ ngabocorkeun|membocorkan
 ngabogaan|memiliki
 ngabogaan hak|berhak
 ngabogaan tugas|bertugas
-ngabolaykeun|membatalkan, mengurungkan
+ngabolaykeun|mengurungkan
+ngabolaykeun|membatalkan
 ngabolongan|melubangi
 ngabombardir|memborbardir
 ngabrul|berbondong-bondong
@@ -2519,13 +2866,15 @@ ngadagleg|bergumpal
 ngadagoan|menanti
 ngadahar|memakan
 ngadakom|tengkurap
-ngadalikeun|mengendalikan, mengontrol
+ngadalikeun|mengontrol
+ngadalikeun|mengendalikan
 ngadapang|telungkup
 ngadaptar|mendaftar
 ngadasar|mendasar
 ngadatangan|mengunjungi
 ngadatangkeun|mendatangkan
-ngadegkeun|mendirikan, menegakkan
+ngadegkeun|menegakkan
+ngadegkeun|mendirikan
 ngadekem|mendekam
 ngadelek|mendelik
 ngadesek|mendesak
@@ -2595,10 +2944,12 @@ ngagusur|menggusur
 ngageboy|meliuk-liuk
 ngagehan|menyisihkan
 ngageser-geser|mengeser-geser
-ngahadiran|hadiri, menghadiri
+ngahadiran|menghadiri
+ngahadiran|hadiri
 ngahaja|sengaja
 ngaharepkeun|berharap
-ngahargaan|mengapresiasi, menghargai
+ngahargaan|menghargai
+ngahargaan|mengapresiasi
 ngaharewos|berbisik
 ngahasilkeun|menghasilkan
 ngahaturkeun|menghaturkan
@@ -2608,7 +2959,9 @@ ngahibar|berkibar
 ngahieng|berdesing
 ngahiji|bersatu
 ngahirupkeun|menghidupkan
-ngahontal|mencapai, menggapai, meraih
+ngahontal|meraih
+ngahontal|menggapai
+ngahontal|mencapai
 ngahormatan|menghormati
 ngahuapan|menyuapi
 ngahudangkeun|membangunkan
@@ -2621,7 +2974,8 @@ ngait|menyangkut
 ngajabel|merampas
 ngajadikeun|menjadikan
 ngajadikeunna|menjadikannya
-ngajaga|berjaga, menjaga
+ngajaga|menjaga
+ngajaga|berjaga
 ngajaga-jaga|berjaga-jaga
 ngajajah|menjajah
 ngajajar|berbaris
@@ -2639,7 +2993,8 @@ ngajebian|mencibir
 ngajejewet|merobek-robek
 ngajelaskeun|menerangkan
 ngajelegur|meledak
-ngajenghok|terperangah, tersentak
+ngajenghok|tersentak
+ngajenghok|terperangah
 ngajerit|menjerit
 ngajingjing|menjinjing
 ngajleng|loncat
@@ -2652,19 +3007,23 @@ ngajurung|menyuruh
 ngajenan|menghargai
 ngakat|membongkar
 ngakeup|mendekap
-ngaku|mengaku, mengakui
+ngaku|mengakui
+ngaku|mengaku
 ngaku-ngaku|mengatasnamakan
 ngalaan|melepaskan
 ngalabuhkeun|menjatuhkan
-ngaladenan|meladeni, melayani
+ngaladenan|melayani
+ngaladenan|meladeni
 ngalahun|memangku
 ngalakonan|melakukan
 ngalakonanana|melakukannya
 ngalaksanakeun|melaksanakan
-ngalakukeun|melakukan, menunaikan
+ngalakukeun|menunaikan
+ngalakukeun|melakukan
 ngalalana|berkelana
 ngalaman|mengalami
-ngalamun|melamun, ngelamun
+ngalamun|ngelamun
+ngalamun|melamun
 ngalanggengkeun|melanggengkan
 ngalanglang|meninjau
 ngalapor|melapor
@@ -2678,7 +3037,8 @@ ngalayangkeun|melayangkan
 ngalegaan|meluas
 ngaleukeunan|menekuni
 ngaleungitkeun|menghilangkan
-ngaleuwihan|melampaui, melebihi
+ngaleuwihan|melebihi
+ngaleuwihan|melampaui
 ngaleyek|menginjak-nginjak
 ngali|menggali
 ngalicin|nyetrika
@@ -2687,9 +3047,12 @@ ngalindur|mengigau
 ngalingkung|mengelilingi
 ngalipet|berlipat
 ngaliwat|melintas
-ngaliwatan|melalui, melewati
+ngaliwatan|melewati
+ngaliwatan|melalui
 ngaliwatkeun|melewatkan
-ngaluarkeun|melansir, mengeluarkan, mengerahkan
+ngaluarkeun|mengerahkan
+ngaluarkeun|mengeluarkan
+ngaluarkeun|melansir
 ngalucutan|melucuti
 ngaluuhan|menghadiri
 ngalelewe|memperolok-olok
@@ -2712,7 +3075,9 @@ ngampar|menghampar
 ngamuara|bermuara
 ngamuk|mengamuk
 ngamuliakeun|memuliakan
-ngan|cuma, cuman, hanya
+ngan|hanya
+ngan|cuman
+ngan|cuma
 ngancem|mengancam
 ngancurkeun|menghancurkan
 ngandeg|berhenti
@@ -2741,7 +3106,8 @@ nganteurkeun|mengantarkan
 ngantongan|mengantongi
 nganuhunkeun|berterimakasih
 nganuhunkeun pisan|berterimakasih sekali
-ngapalkeun|menghafal, menghapalkan
+ngapalkeun|menghapalkan
+ngapalkeun|menghafal
 ngapung|terbang
 ngaput|menjahit
 ngaracik|meracik
@@ -2750,13 +3116,15 @@ ngaraketkeun|mendekatkan
 ngaralat|meralat
 ngaran|nama
 ngarang|mengarang
-ngaranna|bernama, namanya
+ngaranna|namanya
+ngaranna|bernama
 ngarapikeun|merapikan
 ngararancang|merancang
 ngararangna|melarangnya
 ngararasakeun|merasa-rasakan
 ngarasa|merasa
-ngarasakeun|menikmati, merasakan
+ngarasakeun|merasakan
+ngarasakeun|menikmati
 ngarayakeun|merayakan
 ngarayap|merayap
 ngarebut|merebut
@@ -2767,16 +3135,19 @@ ngareureuhkeun|mengistirahatkan
 ngaringkuk|meringkuk
 ngariung|berkumpul
 ngariungna|berkumpulnya
-ngarobah|mengubah, merubah
+ngarobah|merubah
+ngarobah|mengubah
 ngarojok|merodok
-ngarojong|mendukung, menunjang
+ngarojong|menunjang
+ngarojong|mendukung
 ngarojongna|menunjangnya
 ngaronjatkeun|meningkatkan
 ngaroes|menggapai-gapai
 ngaruang|mengubur
 ngarubung|mengerumuni
 ngarugikeun|merugikan
-ngarujuk|mengacu, merujuk
+ngarujuk|merujuk
+ngarujuk|mengacu
 ngarumuskeun|merumuskan
 ngarusak|merusak
 ngarekam|merekam
@@ -2794,19 +3165,23 @@ ngasupkeun|memasukkan
 ngatik|mendidik
 ngawadahan|mewadahi
 ngawakilan|mewakili
-ngawangun|berbentuk, membangun
+ngawangun|membangun
+ngawangun|berbentuk
 ngawanohan|pengenalan
 ngawanohkeun|memperkenalkan
 ngawar|menawar
 ngawariskeun|mewariskan
 ngawarnaan|mewarnai
 ngawartakeun|memberitakan
-ngawasa|berkuasa, menguasai
+ngawasa|menguasai
+ngawasa|berkuasa
 ngawaskeun|memantau
 ngawates|membatas
-ngawayuh|berpoligami, poligami
+ngawayuh|poligami
+ngawayuh|berpoligami
 ngawelah|mendayung
-ngawengku|meliputi, mencakup
+ngawengku|mencakup
+ngawengku|meliputi
 ngawilah-wilah|memilah-milah
 ngawincik|merinci
 ngawisuna|menghasut
@@ -2816,14 +3191,19 @@ ngawujudkeunana|mewujudkannya
 ngawur|menabur
 ngawurukan|mengajari
 ngayak|menyaring
-ngayakeun|mengadakan, pengadaan
+ngayakeun|pengadaan
+ngayakeun|mengadakan
 ngayakinan|meyakini
 ngayap|meraba-raba
 ngayun|mengayun
 ngebog|berbaring
 ngebul|mengepul
-ngedalkeun|mengucap, mengucapkan, mengutarakan
-ngedeng|berbaring, rebah, rebahan
+ngedalkeun|mengutarakan
+ngedalkeun|mengucapkan
+ngedalkeun|mengucap
+ngedeng|rebahan
+ngedeng|rebah
+ngedeng|berbaring
 ngeduk|mengeduk
 ngelas|mengelas
 ngelay|ngiler
@@ -2839,7 +3219,8 @@ ngepel|mengepel
 ngerekeb|menerkam
 ngerem|mengurung
 ngeueum|merendam
-ngeunaan|mengenai, tentang
+ngeunaan|tentang
+ngeunaan|mengenai
 ngeunah|enak
 ngeunteung|bercermin
 ngeupeulkeun|mengepalkan
@@ -2848,7 +3229,8 @@ ngeusian|mengisi
 ngeuweuhkeun|meniadakan
 ngiceup|berkedip
 ngidinan manehna|memperbolehkannya
-ngiles|menghilang, raib
+ngiles|raib
+ngiles|menghilang
 ngimanan|mengimani
 ngimeutan|mengamati
 ngimpel|membeku
@@ -2874,11 +3256,17 @@ ngocorkeun|mengalirkan
 ngocek|mengaduk
 ngohkoh|batuk-batuk
 ngojay|berenang
-ngokolakeun|mengelola, mengolah
+ngokolakeun|mengolah
+ngokolakeun|mengelola
 ngolah raga|berolahraga
 ngolomoh|mengulum
 ngolotan|menua
-ngomong|berbicara, berkata, bicara, bilang, mengatakan, ngomong
+ngomong|ngomong
+ngomong|mengatakan
+ngomong|bilang
+ngomong|bicara
+ngomong|berkata
+ngomong|berbicara
 ngomongkeun|membicarakan
 ngomongna|bicaranya
 ngomentaran|berkomentar
@@ -2886,14 +3274,16 @@ ngondang|mengundang
 ngontrak|mengontrak
 ngontrak manehna|mengontraknya
 ngora|muda
-ngorbankeun|berkorban, mengorbankan
+ngorbankeun|mengorbankan
+ngorbankeun|berkorban
 ngorondang|merangkak
 ngorejat|bangkit
 ngoreksi|mengoreksi
 ngosok|menggosok
 ngotektak|mencari-cari
 ngoyagkeun|mengguncang
-nguatkeun|memperkuat, menguatkan
+nguatkeun|menguatkan
+nguatkeun|memperkuat
 ngubrak-abrik|ngobrak-ngabrik
 nguciwakeun|mengecewakan
 ngudag|mengejar
@@ -2912,7 +3302,8 @@ ngungkab|mengungkap
 ngungkabkeun|mengungkapkan
 ngunjalan|mengangkut
 nguntungkeun|menguntungkan
-ngurangan|berkurang, mengurangi
+ngurangan|mengurangi
+ngurangan|berkurang
 nguras|menguras
 ngured|menjerat
 ngurihit|merajuk
@@ -2921,14 +3312,16 @@ nguruskeun|mengurusi
 nguseup|memancing
 ngusikkeun|menggerakkan
 ngusir|mengusir
-ngusulkeun|mengajukan, menyarankan
+ngusulkeun|menyarankan
+ngusulkeun|mengajukan
 ngutamakeun|mengutamakan
 ngutruk|bersungut-sungut
 ngutus|mengutus
 nguyang|paceklik
 nguyumbang|menggenang
 ngecos|menjahit
-ngece|melecehkan, menghina
+ngece|menghina
+ngece|melecehkan
 ngeceng|membidik
 ngecer|mengecer
 ngeceskeun|menjelaskan
@@ -2943,7 +3336,8 @@ nikah|menikah
 nikah ka|menikahi
 nikah ka manehna|menikahinya
 nikmatna|nikmatnya
-nimbang-nimbang|mempertimbangkan, pertimbangkan
+nimbang-nimbang|pertimbangkan
+nimbang-nimbang|mempertimbangkan
 nindes|debug
 nindihan|menindih
 ninggalkeun|meninggalkan
@@ -2956,7 +3350,8 @@ nohonan|memenuhi
 nojos|menusuk
 nomer|nomor
 nonoman|pemuda
-nopember|nopember, november
+nopember|november
+nopember|nopember
 nu boga|pemilik
 nu bogana|pemiliknya
 nu beda|berlainan
@@ -2966,7 +3361,8 @@ nu haratis|gratisan
 nu mawa|pembawa
 nu nata|penata
 nu ngahutang|pengutang
-nu ngajaga|pelindung, penjaga
+nu ngajaga|penjaga
+nu ngajaga|pelindung
 nu ngarojong|pendukung
 nu ngayakeun|penyelenggara
 nu ngokolakeun|pengelola
@@ -2987,7 +3383,8 @@ nuluykeun|melanjutkan
 numiba|menerpa
 numpakan|mengendarai
 numpang|menumpang
-numpes|memberantas, menumpas
+numpes|menumpas
+numpes|memberantas
 numpuk|menumpuk
 numuwuhkeun|menumbuhkan
 nunda|menyimpan
@@ -3000,12 +3397,14 @@ nunungguan|menunggu-nunggu
 nurunkeun|menurunkan
 nurutkeun|menurut
 nusantara|nusantara
-nutupan|menutup, menutupi
+nutupan|menutupi
+nutupan|menutup
 nutupkeun|menutupkan
 nuturkeun|mengikuti
 nyaah|sayang
 nyaan|sungguhan
-nyababkeun|menyebabkan, mengakibatkan
+nyababkeun|mengakibatkan
+nyababkeun|menyebabkan
 nyabak|menyentuh
 nyabet|menyabet
 nyabeulahan|bersebelahan
@@ -3014,8 +3413,11 @@ nyabut|mencabut
 nyadap|menyadap
 nyadar|menyadari
 nyadiakeun|menyediakan
-nyageurkeun|memulihkan, menyehatkan
-nyaho|ketahui, mengetahui, tahu
+nyageurkeun|menyehatkan
+nyageurkeun|memulihkan
+nyaho|tahu
+nyaho|mengetahui
+nyaho|ketahui
 nyakclakan|menetes
 nyaksian|menyaksikan
 nyalabarkeun|mengumumkan
@@ -3026,7 +3428,8 @@ nyalusup|menyusup
 nyaluyukeun|menyelaraskan
 nyambat|memanggil-manggil
 nyamber|menyambar
-nyambung|berhubungan, terhubung
+nyambung|terhubung
+nyambung|berhubungan
 nyambungkeun|menghubungkan
 nyambungkeunana|menghubungkannya
 nyampurnakeun|menyempurnakan
@@ -3036,31 +3439,41 @@ nyandet|menyumbat
 nyandu|kecanduan
 nyandung|selingkuh
 nyanghareup|menghadap
-nyanghareupan|menghadapi, menjelang
+nyanghareupan|menjelang
+nyanghareupan|menghadapi
 nyanghareupanana|menghadapinya
-nyangka|menduga, menyangka
+nyangka|menyangka
+nyangka|menduga
 nyapluk|mencaplok
 nyapu|menyapu
 nyapek|mengunyah
 nyaram|melarang
 nyarangkeun|menjarangkan
 nyarita|berbicara
-nyaritakeun|bercerita, berkisah, menceritakan
+nyaritakeun|menceritakan
+nyaritakeun|berkisah
+nyaritakeun|bercerita
 nyaruakeun|menyamakan
 nyarupaan|menyerupai
 nyarekan|memarahi
-nyata|jelas-jelas, nyata
+nyata|nyata
+nyata|jelas-jelas
 nyatakeun|menyatakan
-nyatujuan|menyepakati, menyetujui
+nyatujuan|menyetujui
+nyatujuan|menyepakati
 nyawa|nyawa
 nyawad|mencela
 nyawana|nyawanya
-nyaeta|adalah, yaitu, yakni
+nyaeta|yakni
+nyaeta|yaitu
+nyaeta|adalah
 nyebarkeun|menyebarkan
-nyebutkeun|menyebut, menyebutkan
+nyebutkeun|menyebutkan
+nyebutkeun|menyebut
 nyeceb|menancap
 nyedek|mendesak
-nyegah|mencegah, mengantisipasi
+nyegah|mengantisipasi
+nyegah|mencegah
 nyekel|memegang
 nyekel kalungguhan|menjabat
 nyekel pakarang|bersenjata
@@ -3074,14 +3487,18 @@ nyerbu|menyerbu
 nyerek|menangkap
 nyerepan|menyerap
 nyeureud|menyengat
-nyiapkeun|mempersiapkan, menyiapkan
+nyiapkeun|menyiapkan
+nyiapkeun|mempersiapkan
 nyicikeun|menuangkan
 nyicil|mencicil
 nyicip|mencicipi
-nyieun|bikin, membentuk, membuat
+nyieun|membuat
+nyieun|membentuk
+nyieun|bikin
 nyigeung|menyinggung
 nyimbeuh|membasuh
-nyimpang|bertandang, mampir
+nyimpang|mampir
+nyimpang|bertandang
 nyimpen|meletakkan
 nyingcet|mengelak
 nyingcetkeun|menghindarkan
@@ -3095,7 +3512,8 @@ nyium|mencium
 nyoba-nyoba|mencoba-coba
 nyobaan|nyobain
 nyodor|menjorok
-nyokot|mengambil, ngambil
+nyokot|ngambil
+nyokot|mengambil
 nyontoan|mencontohkan
 nyopot|mencopot
 nyorong|mendorong
@@ -3112,7 +3530,8 @@ nyurtian|memahami
 nyurungkeun|mendorong
 nyusul|menyusul
 nyusun|menyusun
-nyutat|mengutip, menyalin
+nyutat|menyalin
+nyutat|mengutip
 nyerelek|mengalir
 nyesakeun|menyisakan
 nyewa|menyewa
@@ -3129,12 +3548,15 @@ newak|menangkap
 newakan|menangkapi
 obrolanna|obrolannya
 ogo|manja
-oge|pula, juga, pun
+oge|pun
+oge|juga
+oge|pula
 oktober|oktober
 olah|olah
 olahraga|olahraga
 ole|ole
-omongan|perkataan, ucapan
+omongan|ucapan
+omongan|perkataan
 ondangan|undangan
 ondanganna|undangannya
 opat|empat
@@ -3143,7 +3565,8 @@ operasi|operasi
 opini|opini
 oposisi|oposisi
 optik|optik
-oranyeu|jingga, oranye
+oranyeu|oranye
+oranyeu|jingga
 organisasi|organisasi
 orok|bayi
 otobiografina|otobiografinya
@@ -3161,19 +3584,25 @@ pacul|cangkul
 pacet|pacet
 pada|bait
 pada-pada|sama-sama
-padagang|pedagang, penjual
+padagang|penjual
+padagang|pedagang
 padahal|padahal
 padamucunghul|bermunculan
 padempet|berhimpitan
 padeukeut|berdekatan
-padika|metoda, metode
+padika|metode
+padika|metoda
 padoman|pedoman
 paduduaan|berduaan
 paduli|peduli
-padumukan|permukiman, perumahan
+padumukan|perumahan
+padumukan|permukiman
 padungdengan|berbantahan
-pagawe|karyawan, pegawai, pekerja
-pagawean|kerjaan, pekerjaan
+pagawe|pekerja
+pagawe|pegawai
+pagawe|karyawan
+pagawean|pekerjaan
+pagawean|kerjaan
 pager|pagar
 pageuh|erat
 pagorenyang|berebutan
@@ -3191,11 +3620,15 @@ pajabat|pejabat
 pajeg|pajak
 pajoang|pejuang
 pajurawet|kusut
-pakakas|alat, perangkat, perkakas
+pakakas|perkakas
+pakakas|perangkat
+pakakas|alat
 pakarang|senjata
 pakarangna|senjatanya
 pakasaban|pekerjaan
-pake|gunakan, pakai, pake
+pake|pake
+pake|pakai
+pake|gunakan
 pakean|pakaian
 palabuhan|pelabuhan
 palajaran|pelajaran
@@ -3215,10 +3648,14 @@ palu|palu
 pamaca|pembaca
 pamadegan|pendapat
 pamahaman|pemahaman
-pamajikan|isteri, istri
+pamajikan|istri
+pamajikan|isteri
 pamaksudanna|maksudnya
-pamake|pemakai, pengguna
-pamakean|kegunaan, pemakaian, penggunaan
+pamake|pengguna
+pamake|pemakai
+pamakean|penggunaan
+pamakean|pemakaian
+pamakean|kegunaan
 pamali|tabu
 pamanah|pemanah
 pamariksaan|pemeriksaan
@@ -3259,14 +3696,16 @@ paneunggeul|pemukul
 paneuteup|tatapan
 pang|paling
 pangabisa|kemampuan
-pangadeg|pendiri, penegak
+pangadeg|penegak
+pangadeg|pendiri
 pangadilan|pengadilan
 pangagem|pemeluk
 pangajaran|pengajaran
 pangajen|penghargaan
 pangakuan|pengakuan
 pangalaman|pengalaman
-pangangguran|penganggur, pengangguran
+pangangguran|pengangguran
+pangangguran|penganggur
 panganteur|pengantar
 panganut|penganut
 panganyarna|terbaru
@@ -3301,7 +3740,8 @@ panglima|panglima
 pangluhurna|tertinggi
 pangmahalna|termahal
 pangpentingna|terpenting
-pangrojong|dukungan, penyokong
+pangrojong|penyokong
+pangrojong|dukungan
 pangsiun|pensiun
 pangurus|pengurus
 pangusaha|pengusaha
@@ -3336,13 +3776,16 @@ panen|panen
 papadana|duanya
 papan|papan
 papang|pipis
-papanggih|bertemu, ketemu
+papanggih|ketemu
+papanggih|bertemu
 papasanganana|pasangannya
 papatong|capung
 para|para
-parabot|perabot, peralatan
+parabot|peralatan
+parabot|perabot
 paradoks|paradoks
-parahu|perahu, sampan
+parahu|sampan
+parahu|perahu
 parakanca|kawan-kawan
 parapatan|perempatan
 parasea|bertengkar
@@ -3363,7 +3806,8 @@ parud|parut
 parunggu|perunggu
 pare|padi
 parentah|perintah
-pas|pas, tepat
+pas|tepat
+pas|pas
 pas pisan|bertepatan
 pasagi|persegi
 pasalna|pasalnya
@@ -3383,7 +3827,8 @@ pasualan|persoalan
 pasualanana|persoalannya
 pasukan|pasukan
 patali|terkait
-patalimarga|lalu lintas, lalu-lintas
+patalimarga|lalu-lintas
+patalimarga|lalu lintas
 patalina|kaitannya
 pataneuhan|pertanahan
 patani|petani
@@ -3404,7 +3849,8 @@ pawon|dapur
 payung|payung
 pebruari|februari
 pecut|cambuk
-pedes|lada, merica
+pedes|merica
+pedes|lada
 pegat|putus
 pejret|remuk
 pelak|tanam
@@ -3420,13 +3866,18 @@ pepedut|kabut
 pepek|lengkap
 pepekna|lengkapnya
 pepelakan|tanaman
-perang|perang, pertempuran
+perang|pertempuran
+perang|perang
 percaya|percaya
 perenahna|terletak
 perkara|perkara
-perlu|perlu untuk, butuh, perlu, usah
+perlu|usah
+perlu|perlu
+perlu|butuh
+perlu|perlu untuk
 perlukeun|perlukan
-perluna|butuhnya, perlunya
+perluna|perlunya
+perluna|butuhnya
 persen|persen
 pesenan|pesanan
 peucang|kancil
@@ -3436,7 +3887,8 @@ peuntas|seberang
 peunteun|nilai
 peupeus|pecah
 peura|serak
-peureup|bogem, kepalan
+peureup|kepalan
+peureup|bogem
 peurih|pedih
 peurihna|perihnya
 peuteuy|petai
@@ -3454,19 +3906,24 @@ piit|pipit
 pikahariwangeun|mengkhawatirkan
 pikalebareun|disayangkan
 pikasono|rindukan
-pikeun|bagi, untuk
+pikeun|untuk
+pikeun|bagi
 pikeun manehna|kepadanya
 pikir|pikir
 pikiran|pikiran
 pikiranana|pikirannya
 pikirkeun|pikirkan
-pilemburan|pedesaan, perkampungan
+pilemburan|perkampungan
+pilemburan|pedesaan
 pileuweungan|kehutanan
 pilih|pilih
 pilihan|pilihan
 pilihna|pilihnya
 pinareup|payudara
-pindah|beralih, bermigrasi, berpindah, pindah
+pindah|pindah
+pindah|berpindah
+pindah|bermigrasi
+pindah|beralih
 pinggel|gelang
 pingping|paha
 pintonan|pertunjukan
@@ -3506,7 +3963,8 @@ poean|harian
 poena|harinya
 praktek|praktik
 praktekna|prakteknya
-pribadi|pribadi, private
+pribadi|private
+pribadi|pribadi
 pribumi|pribumi
 produk|produk
 produksi|produksi
@@ -3537,12 +3995,14 @@ pungkaskeun|selesaikan
 punjul|unggul
 punten|permisi
 puntir|puntir
-pupuhu|ketua, pimpinan
+pupuhu|pimpinan
+pupuhu|ketua
 pupuhuna|pemimpinnya
 purnawirawan|purnawirawan
 puseur|pusat
 puseur dayeuh|ibu kota
-pustaka|literatur, pustaka
+pustaka|pustaka
+pustaka|literatur
 puter|putar
 puteri|peri
 putra|putra
@@ -3591,7 +4051,8 @@ raramat|jaringan
 rarampeolan|terhuyung-huyung
 rarancang|rancangan
 rarancangna|rancangannya
-rarangken|imbuhan, sisipan
+rarangken|sisipan
+rarangken|imbuhan
 rarasaan|perasaan
 raratan|kabar-berita
 rasa|rasa
@@ -3609,7 +4070,8 @@ remen oge|seringkali
 rencana|rencana
 rengat|retak
 republik|republik
-rerencepan|diam-diam, sembunyi-sembunyi
+rerencepan|sembunyi-sembunyi
+rerencepan|diam-diam
 resep|suka
 resep kana|menyenangi
 resmi|resmi
@@ -3640,7 +4102,8 @@ ronjatkeun|tingkatkan
 rosul|rasul
 rubak|lebar
 rubuh|roboh
-rugi|kerugian, rugi
+rugi|rugi
+rugi|kerugian
 ruhay|membara
 rujukan|rujukan
 rukmi|permata
@@ -3653,7 +4116,8 @@ runtah|sampah
 runtuh|tumbang
 runtuy|berurutan
 runtuyan|rangkaian
-rupa-rupa|aneka, beragam
+rupa-rupa|beragam
+rupa-rupa|aneka
 rusiah|rahasia
 rutinna|rutinnya
 rea|banyak
@@ -3667,7 +4131,8 @@ rekaman|rekaman
 rektor|rektor
 remeh|remah
 rencang|teman
-rengse|selesai, usai
+rengse|usai
+rengse|selesai
 replika|replika
 reregean|bergerigi
 residen|residen
@@ -3679,16 +4144,20 @@ sababaraha|beberapa
 sababaraha-kali|berkali-kali
 sababna|sebabnya
 sabada|bada
-sabalikna|sepulang, sebaliknya
+sabalikna|sebaliknya
+sabalikna|sepulang
 saban|setiap
 sabanding|sepadan
 sabangsa|sebangsa
 sabar|sabar
-sabaraha|berapa, seberapa
+sabaraha|seberapa
+sabaraha|berapa
 sabarae|leluasa
 sabatang|sebatang
 sabelas|sebelas
-sabenerna|sebenarnya, sebenernya, sebetulnya
+sabenerna|sebetulnya
+sabenerna|sebenernya
+sabenerna|sebenarnya
 sabot|ketika
 sabulan|sebulan
 sabeak|sehabis
@@ -3698,7 +4167,8 @@ sada|bunyi
 sadar|sadar
 sadia|tersedia
 saeutik|sedikit
-saeutikna|minimal, sedikitnya
+saeutikna|sedikitnya
+saeutikna|minimal
 sagala|segala
 sagala rupa|berbagai
 sagancangna|secepatnya
@@ -3711,7 +4181,9 @@ saha|siapa
 saha oge|siapapun
 saha tea|siapakah
 saharga|seharga
-sahenteuna|setidak-tidaknya, setidaknya, paling tidak
+sahenteuna|paling tidak
+sahenteuna|setidaknya
+sahenteuna|setidak-tidaknya
 saimah|serumah
 saimbang|seimbang
 sajaba|selain
@@ -3726,7 +4198,8 @@ sajembar-jembarna|seluas-luasnya
 sajongjonan|sesaat
 sajumlah|sejumlah
 sajuta|sejuta
-sakabeh|keseluruhan, segenap
+sakabeh|segenap
+sakabeh|keseluruhan
 sakahayangna|semaunya
 sakali|sekali
 sakali-kali|sesekali
@@ -3734,12 +4207,15 @@ sakalian|sekalian
 sakaligus|sekaligus
 sakampung|sekampung
 sakanyaho|sepengetahuan
-sakapeung|kadang, kadang-kadang, terkadang
+sakapeung|terkadang
+sakapeung|kadang-kadang
+sakapeung|kadang
 sakarat|sekarat
 sakeudeung|sebentar
 sakeudeung|sebentar
 saking|saking
-sakitu|sedemikian, sekian
+sakitu|sekian
+sakitu|sedemikian
 sakola|sekolah
 sakolana|sekolahnya
 sakolebat|sekilas
@@ -3747,7 +4223,9 @@ sakotamadya|sekotamadya
 sakoteap|sekejap
 saksi|saksi
 saksian|saksikan
-sakuduna|mestinya, seharusnya, semestinya
+sakuduna|semestinya
+sakuduna|seharusnya
+sakuduna|mestinya
 sakuliah|seantero
 sakumaha|sebagaimana
 sakumna|seluruh
@@ -3793,7 +4271,8 @@ sambetan|utang
 sambungkeun|hubungkan
 sambungna|sambungnya
 samentara|sementara
-samilyar|semiliar, semilyar
+samilyar|semilyar
+samilyar|semiliar
 saminggu|sepekan
 samiuk|sekongkol
 sampeu|singkong
@@ -3802,14 +4281,17 @@ sampeurkeun|samperin
 sampurna|sempurna
 samemeh|sebelum
 samemehna|sebelumnya
-sanajan|kendati, meskipun, walaupun
+sanajan|walaupun
+sanajan|meskipun
+sanajan|kendati
 sanding|damping
 sandra|sandera
 sanepina|setibanya
 sanggal|belulang
 sanggeus|setelah
 sanggul|sanggul
-sanggup|mampu, sanggup
+sanggup|sanggup
+sanggup|mampu
 sanghareupan|hadapi
 sangka|sangka
 sangkan|supaya
@@ -3825,9 +4307,11 @@ sapinuhna|sepenuhnya
 sapopoe|sehari-hari
 sapoe|sehari
 sapoe jeput|seharian
-saprak|sejak, semenjak
+saprak|semenjak
+saprak|sejak
 saptu|sabtu
-sapuk|sepakat, setuju
+sapuk|setuju
+sapuk|sepakat
 sapuluh|sepuluh
 sapuluhan|bersepuluh
 sapedah|sepeda
@@ -3840,14 +4324,16 @@ saratus|seratus
 sarikat|serikat
 sarimbag|setara
 sarombong|sombong-sombong
-sarta|dan, serta
+sarta|serta
+sarta|dan
 sarua|sama
 sarupa|serupa
 sarupaning|semacam
 sarurak|bersoraklah
 sarwa|serba
 sare|tidur
-sareat|syariah, syariat
+sareat|syariat
+sareat|syariah
 sarebu|seribu
 sarengse|seusai
 sasama|sesama
@@ -3861,24 +4347,36 @@ satarik|sekeras
 sataun|setahun
 satempat|setempat
 satengah|setengah
-saterusna|berikutnya, kemudian, lantas, selanjutnya, seterusnya
+saterusna|seterusnya
+saterusna|selanjutnya
+saterusna|lantas
+saterusna|kemudian
+saterusna|berikutnya
 satia|setia
 satiana|setianya
-sato|binatang, hewan
+sato|hewan
+sato|binatang
 satria|satria
-satrilyun|setriliun, setrilyun
+satrilyun|setrilyun
+satrilyun|setriliun
 satru|musuh
 satutasna|sesudahnya
 sate|sate
-saukur|hanyalah, sekadar, sekedar
+saukur|sekedar
+saukur|sekadar
+saukur|hanyalah
 saumur|seumur
 saung|saung
 sauntuyan|serangkaian
 saurang|seorang
-sawajarna|lazim, sepantasnya, sepatutnya
-sawaktu|semasa, sewaktu
+sawajarna|sepatutnya
+sawajarna|sepantasnya
+sawajarna|lazim
+sawaktu|sewaktu
+sawaktu|semasa
 sawaktu-waktu|sewaktu-waktu
-sawala|berdiskusi, diskusi
+sawala|diskusi
+sawala|berdiskusi
 sawareh|sebagian
 sawatara|beberapa
 sawawa|dewasa
@@ -3889,7 +4387,8 @@ sebelna|sebalnya
 sebret|ciprat
 sebut|sebut
 sebutan|sebutan
-sedengkeun|adapun, sedangkan
+sedengkeun|sedangkan
+sedengkeun|adapun
 sedep|sedap
 sedot|sedot
 seger|segar
@@ -3910,18 +4409,22 @@ seueul|mual
 seukeut|tajam
 seuneu|api
 seuneuan|berapi
-seungit|harum, wangi
+seungit|wangi
+seungit|harum
 seureuh|sirih
 seuri|tertawa
 seuseungitan|wewangian
 siam|shaum
 siap|siap
 siapkeun|siapkan
-sidang|persidangan, sidang
-sieun|ketakutan, takut
+sidang|sidang
+sidang|persidangan
+sieun|takut
+sieun|ketakutan
 sihung|taring
 siki|biji
-silih|saling, silih
+silih|silih
+silih|saling
 silinder|silinder
 simbol|simbol
 simbut|selimut
@@ -3932,12 +4435,14 @@ sinambungan|berkesinambungan
 sinarieun|tumben
 sindiran|sindiran
 sing percaya|percayalah
-sing saha|barang siapa, barangsiapa
+sing saha|barangsiapa
+sing saha|barang siapa
 singer|pintar
 singget|singkat
 singgetan|singkatan
 sintreuk|sentil
-sipat|karakter, sifat
+sipat|sifat
+sipat|karakter
 sipatna|sifatnya
 sipil|sipil
 sipuh|sepuh
@@ -3947,7 +4452,8 @@ siraru|laron
 sireum|semut
 sirit|penis
 sirung|tunas
-sisi|pinggir, sisi
+sisi|sisi
+sisi|pinggir
 sisidueun|cegukan
 sisit|sisik
 sistem|sistem
@@ -3961,19 +4467,26 @@ sloganna|slogannya
 soal|soal
 soalna|soalnya
 soang|angsa
-sok|selalu, senantiasa
-solat|salat, shalat, sholat
-soldadu|prajurit, serdadu, tentara
+sok|senantiasa
+sok|selalu
+solat|sholat
+solat|shalat
+solat|salat
+soldadu|tentara
+soldadu|serdadu
+soldadu|prajurit
 solobong|selubung
 soledat|peleset
-someah|bersahabat, ramah
+someah|ramah
+someah|bersahabat
 songong|sombong
 sono|rindu
 sono kana|merindukan
 sopan|sopan
 sora|suara
 sorana|suaranya
-sorangan|sendiri, sendirian
+sorangan|sendirian
+sorangan|sendiri
 sore|petang
 sore|sore
 sosial|sosial
@@ -4000,18 +4513,21 @@ sumbang|sumbang
 sumbangan|sumbangan
 sumebar|tersebar
 sumebarken|edarkan
-sumebarna|penyebaran, tersebarnya
+sumebarna|tersebarnya
+sumebarna|penyebaran
 sumerah|berserah
 sumujud|bersujud
 sumur|sumur
 sungut|mulut
 sungutna|mulutnya
-supir|pengemudi, sopir
+supir|sopir
+supir|pengemudi
 suplemen|suplemen
 surat|surat
 suratna|suratnya
 surup|terbenam
-surelek|e-mail, email
+surelek|email
+surelek|e-mail
 susu|susu
 susuganan|mudah-mudahan
 susunan|susunan
@@ -4047,8 +4563,10 @@ tadi|tadi
 tadina|tadinya
 tagihan|tagihan
 tah|nah
-tahan|bertahan, tahan
-tahanan|hambatan, penahan
+tahan|tahan
+tahan|bertahan
+tahanan|penahan
+tahanan|hambatan
 tajongan|tendangan
 takbiran|takbiran
 taker|takar
@@ -4064,7 +4582,8 @@ tambahna|tambahnya
 tampik|tolak
 tampikan|penolakan
 tanaga|tenaga
-tanda|penanda, tanda
+tanda|tanda
+tanda|penanda
 tanding|bertanding
 tanduk|tanduk
 tande|tampung
@@ -4072,7 +4591,8 @@ taneuh|tanah
 taneuhna|tanahnya
 tangga|tangga
 tanggal|tanggal
-tanggung|bertanggung, tanggung
+tanggung|tanggung
+tanggung|bertanggung
 tanggung jawab|bertanggungjawab
 tangkal|pohon
 tangsi|tangsi
@@ -4082,7 +4602,10 @@ tani|tani
 tanpa|tanpa
 tanya|tanya
 tapak|jejak
-tapi|akan tetapi, namun, tapi, tetapi
+tapi|tetapi
+tapi|tapi
+tapi|namun
+tapi|akan tetapi
 tapis|sigap
 tarajang|terjang
 tarang|kening
@@ -4101,7 +4624,9 @@ tatanan|tatanan
 tatangga|tetangga
 tatangkalan|pepohonan
 tatanen|pertanian
-tatu|cedera, luka, terluka
+tatu|terluka
+tatu|luka
+tatu|cedera
 tatu parna|luka berat
 tauhid|tauhid
 taun anyar|tahun baru
@@ -4116,12 +4641,17 @@ teges|tegas
 tegeskeun|tegaskan
 tegesna|tegasnya
 teguh|teguh
-telat|telat, terlambat
-telenges|kejam, semena-mena
-telepon|telepon, telpon
+telat|terlambat
+telat|telat
+telenges|semena-mena
+telenges|kejam
+telepon|telpon
+telepon|telepon
 tempat|tempat
-tempatna|letaknya, tempatnya
-tempo|lihat, pandang
+tempatna|tempatnya
+tempatna|letaknya
+tempo|pandang
+tempo|lihat
 tenang|tenang
 tengah|tengah
 tengahan|menengah
@@ -4131,9 +4661,12 @@ tepung|jumpa
 terjun|terjun
 terus|terus
 terusna|lanjutnya
-tetempoan|pandangan, pemandangan
+tetempoan|pemandangan
+tetempoan|pandangan
 tetep|tetap
-teu|gak, nggak, tak
+teu|tak
+teu|nggak
+teu|gak
 teu legal|ilegal
 teu mahi|tidak cukup
 teu malire|mengabaikan
@@ -4150,7 +4683,9 @@ ti|dari
 ti Mantenna|dari-nya
 tiguling|terguling
 tihang|tiang
-tiheula|silam, dulu, terdahulu
+tiheula|terdahulu
+tiheula|dulu
+tiheula|silam
 tiis|dingin
 tijengkang|terjengkang
 tikerelep|tenggelam
@@ -4166,10 +4701,12 @@ timuan|temuan
 tina sagala|atas segala
 tinangtu|tentunya
 tinggal|tinggal
-tinggaleun|ketinggalan, tertinggal
+tinggaleun|tertinggal
+tinggaleun|ketinggalan
 tinggalkeun|tinggalkan
 tingkah|tingkah
-tingkat|taraf, tingkat
+tingkat|tingkat
+tingkat|taraf
 tingker|kepung
 tinimbang|ketimbang
 tinimbangan|pertimbangan
@@ -4215,17 +4752,21 @@ tujuhan|bertujuh
 tukang|belakang
 tukang gulat|pegulat
 tukangeunana|belakangnya
-tukeur|tukar, tuker
+tukeur|tuker
+tukeur|tukar
 tulang|tulang
 tulaten|telaten
 tulis|tulis
 tulisan|tulisan
 tuliskeun|tuliskan
 tulung|tolong
-tuluy|lanjut, lalu
+tuluy|lalu
+tuluy|lanjut
 tumbak|tombak
-tumbu|pranala, simpul
-tumiba|mendera, menimpa
+tumbu|simpul
+tumbu|pranala
+tumiba|menimpa
+tumiba|mendera
 tumpang|tumpang
 tumpes|tumpas
 tumuwuh|tumbuh
@@ -4245,7 +4786,8 @@ tunjuk|tunjuk
 tunjukkeun|tunjukkan
 turis|pelancong
 turun|turun
-turunan|keturunan, turunan
+turunan|turunan
+turunan|keturunan
 turunna|menurunnya
 turut|turut
 turutan|ikuti
@@ -4269,7 +4811,8 @@ tembakan|tembakan
 tembalna|jawabnya
 tempo|tempo
 teorina|teorinya
-tepa|menular, nular
+tepa|nular
+tepa|menular
 teroris|teroris
 tere|tiri
 tetela|ternyata
@@ -4279,22 +4822,29 @@ ucing|kucing
 ucul|lepas
 udag|kejar
 udagan|target
-udunan|iuran, patungan
+udunan|patungan
+udunan|iuran
 uger|tambat
 ujub|ujub
 ujug-ujug|tiba-tiba
 ujung|tanjung
 ukuran|ukuran
 ukuranana|berukuran
-ulah|jangan, janganlah
-ulin|bermain, maen, main
+ulah|janganlah
+ulah|jangan
+ulin|main
+ulin|maen
+ulin|bermain
 umat|umat
 umroh|umrah
 umum|umum
-umumna|umumnya, pada umumnya
-umur|umur, usia
+umumna|pada umumnya
+umumna|umumnya
+umur|usia
+umur|umur
 umurna|berusia
-unggal|setiap kali, tiap
+unggal|tiap
+unggal|setiap kali
 unggeuk|mengangguk
 unggut|gerak
 ungkab|ungkap
@@ -4312,15 +4862,19 @@ urang|kita
 uru-ara|huru-hara
 urug|longsor
 urusan|urusan
-urut|bekas, mantan
-usaha|berusaha, upaya, usaha
+urut|mantan
+urut|bekas
+usaha|usaha
+usaha|upaya
+usaha|berusaha
 usik|bergerak
 usul|usul
 usum|musim
 utah|muntah
 utahna|muntahnya
 utama|utama
-utamana|terutama, utamanya
+utamana|utamanya
+utamana|terutama
 uteuk|akal
 utusan|utusan
 utusanna|utusannya
@@ -4331,8 +4885,11 @@ waja|baja
 wajar|wajar
 wajib|wajib
 wakil-wakilna|wakil-wakilnya
-waktu|saat, waktu, kurun waktu
-waktuna|saatnya, waktunya
+waktu|kurun waktu
+waktu|waktu
+waktu|saat
+waktuna|waktunya
+waktuna|saatnya
 walikat|belikat
 walirang|belerang
 walungan|sungai
@@ -4344,7 +4901,8 @@ wangwangan|citra
 wani|berani
 wanoja|wanita
 wara-wiri|mondar-mandir
-waragad|biaya, ongkos
+waragad|ongkos
+waragad|biaya
 waras|waras
 wareg|kenyang
 warga|warga
@@ -4352,28 +4910,37 @@ warganagara|warganegara
 warnana|warnanya
 warsih|tahun
 warta|berita
-wartawan|jurnalis, wartawan
+wartawan|wartawan
+wartawan|jurnalis
 warung|warung
 watek|watak
 wates|batas
 watesan|batasan
 watir|kasihan
 wawadukan|bohong-bohongan
-wawakil|perwakilan, wakil
+wawakil|wakil
+wawakil|perwakilan
 wawancara|wawancara
 wawaran|penjelasan
 wawarkeun|jelaskan
 wawuh|kenal
 wayah|waktu
-wae|aja, saja
+wae|saja
+wae|aja
 wedak|bedak
 welasan|belasan
-wengkuan|cakupan, lingkup, rentang
+wengkuan|rentang
+wengkuan|lingkup
+wengkuan|cakupan
 wening|bening
 werit|rawan
 weruh|tahu
 weuteuhan|perbaharui
-wewengkon|area, daerah, kawasan, ranah, wilayah
+wewengkon|wilayah
+wewengkon|ranah
+wewengkon|kawasan
+wewengkon|daerah
+wewengkon|area
 wiati|langit
 widang|bidang
 wide|kerai
@@ -4418,12 +4985,14 @@ eleh|kalah
 elektronik|elektronik
 elektronika|elektronika
 embaran|pengumuman
-emboh|imbuh, tambah
+emboh|tambah
+emboh|imbuh
 embohna|imbuhnya
 emosional|emosional
 emper|emper
 encer|cair
-endah|elok, indah
+endah|indah
+endah|elok
 endahna|indahnya
 entog|bebek
 episodeu|episode
