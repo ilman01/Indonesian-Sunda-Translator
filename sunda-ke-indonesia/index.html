@@ -13,9 +13,9 @@
         <div class="textbox-container-1">
             <label for="inputSentence">Ketik kalimat:</label>
             <br>
-            <textarea id="inputSentence"></textarea>
+            <textarea id="inputSentence" onkeyup="TranslateSentence()"></textarea>
             <br>
-            <button onclick="TranslateSentence()">Terjemahkan</button>
+            <!--<button onclick="TranslateSentence()">Terjemahkan</button>-->
         </div>
     </div>
     <br>
@@ -25,6 +25,8 @@
             <p id="translatedSentence"></p>
         </div>
     </div>
+    <br>
+    <p id="unknownWords"></p>
 
     <script>
         // Function to read CSV file and create a dictionary
@@ -51,28 +53,118 @@
         function TranslateSentence() {
             var inputSentence = document.getElementById('inputSentence').value;
             inputSentence = inputSentence.toLowerCase(); // change to lowercase
-            //inputSentence = inputSentence.replace(/[,\.]/g, function(match) { //separates special character like . and ,
-            //    return ' ' + match;
+            //inputSentence = inputSentence.replace(/[?!,“”\.\""\n"]/g, function(match) { //separates special character like . and ,
+            //    return ' ' + match + ' ';
             //});
 
             readCSV('../dictionary/sundadictionary', function (dictionary) {
 
                 for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
                     if (dictionary.hasOwnProperty(key)) {
+                        if (key.includes(' ')){ // matches with the ones with space first
+                            var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
+                            var translatedWord = dictionary[key].replace(/(\s+)/, "QLP ");
+                            inputSentence = inputSentence.replace(regex, translatedWord + 'QLP');
+                        }
+                    }
+                }
+
+                for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
+                    if (dictionary.hasOwnProperty(key)) {
+                        //if (key.includes(' ')){
                         var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
-                        inputSentence = inputSentence.replace(regex, dictionary[key]);
+                        var translatedWord = dictionary[key].replace(/(\s+)/, "QLP ");
+                        inputSentence = inputSentence.replace(regex, translatedWord + 'QLP');
+                        //}
                     }
                 }
                 
                 //var words = inputSentence.split(' '); // looks at individual word
                 //var originalWords = words.map(function (word) {
+                //    console.log(word)
                 //    return dictionary[word] || word;
                 //});
                 //var translatedSentence = originalWords.join(' ');
+                
+                var wordsWithoutQLP = inputSentence.match(/\b(?!\w*QLP\b)\w+\b/g);
+                //console.log(wordsWithoutQLP)
 
-                var translatedSentence = inputSentence
+                if (wordsWithoutQLP){ //loop through each word that didn't get translated to correct them
+                    wordsWithoutQLP.forEach(function(word){
+                        //console.log("Word: " + word)
+                        var correctedWord = undefined
 
-                //translatedSentence = translatedSentence.replace(/\s*[,\.]\s/g, function(match) { //merges special character like . and ,
+                        if (word.match(/\b(di)\w*\b/g)){
+                            correctedWord = word.replace("di", "di ")
+                        }
+
+                        if (word.match(/\b(meng)\w*\b/g)){
+                            correctedWord = word.replace("meng", "nga ")
+                        }
+                        else if (word.match(/\b(men)\w*\b/g)){
+                            correctedWord = word.replace("men", "nga ")
+                        }
+                        else if (word.match(/\b(me)\w*\b/g)){
+                            correctedWord = word.replace("me", "na ")
+                        }
+                        else if (word.match(/\b(ke)\w*\b/g)){
+                            correctedWord = word.replace("ke", "ke ")
+                        }
+                        else if (word.match(/\b(ber)\w*\b/g)){
+                            correctedWord = word.replace("ber", "ba ")
+                        }
+
+                        if (correctedWord == undefined){
+                            correctedWord = word
+                        }
+
+
+                        inputSentence = inputSentence.replaceAll(word, correctedWord) //reset for matching ending
+                        word = inputSentence
+                        correctedWord = undefined
+
+
+                        //if (!word.match(/\b(?!\w*(nya|kan)\b)\w+\b/g)){
+                        if (word.match(/\b\w*(nya)\b/g)){
+                            correctedWord = word.replaceAll("nya", " nya")//.replaceAll("kan", " keun")
+                        }
+                        else if (word.match(/\b\w*(kan)\b/g)){
+                            correctedWord = word.replaceAll("kan", " keun")
+                        }
+
+                        if (correctedWord == undefined){
+                            correctedWord = word
+                        }
+
+                        inputSentence = inputSentence.replaceAll(word, correctedWord)
+                    });
+                }
+
+                //does the matching again
+                for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
+                    if (dictionary.hasOwnProperty(key)) {
+                        var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
+                        var translatedWord = dictionary[key].replace(/(\s+)/, "QLP ");
+                        inputSentence = inputSentence.replace(regex, translatedWord + 'QLP');
+                    }
+                }
+
+                wordsWithoutQLP = inputSentence.match(/\b(?!\w*QLP\b)\w+\b/g);
+                //console.log(wordsWithoutQLP)
+
+                if (wordsWithoutQLP != null){ // put the unknown words into the site
+                    document.getElementById('unknownWords').innerText = "Unknown: " + wordsWithoutQLP;
+                }
+                else {
+                    document.getElementById('unknownWords').innerText = "";
+                }
+                
+
+                translatedSentence = inputSentence
+
+                translatedSentence = inputSentence.replaceAll('QLP','').replaceAll('EMPTY','')
+
+                //translatedSentence = translatedSentence.replace(/\s*[?!,“”\"\.]\s/g, function(match) { //merges special character like . and ,
                 //    return match.replace(/^\s+|\s+$/gm,'') + ' ';
                 //});
 
