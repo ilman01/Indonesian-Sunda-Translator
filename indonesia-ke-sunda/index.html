@@ -13,9 +13,9 @@
         <div class="textbox-container-1">
             <label for="inputSentence">Ketik kalimat:</label>
             <br>
-            <textarea id="inputSentence"></textarea>
+            <textarea id="inputSentence" onkeyup="TranslateSentence()"></textarea>
             <br>
-            <button onclick="TranslateSentence()">Terjemahkan</button>
+            <!--<button onclick="TranslateSentence()">Terjemahkan</button>-->
         </div>
     </div>
     <br>
@@ -119,7 +119,7 @@
 
                 translatedSentence = inputSentence
 
-                translatedSentence = inputSentence.replaceAll('QLP','').replaceAll('QTE','')
+                translatedSentence = inputSentence.replaceAll('QLP','').replaceAll('EMPTY','')
 
                 //translatedSentence = translatedSentence.replace(/\s*[?!,“”\"\.]\s/g, function(match) { //merges special character like . and ,
                 //    return match.replace(/^\s+|\s+$/gm,'') + ' ';
