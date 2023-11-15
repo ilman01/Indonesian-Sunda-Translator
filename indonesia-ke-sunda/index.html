@@ -87,41 +87,55 @@
                 //var translatedSentence = originalWords.join(' ');
                 
                 var wordsWithoutQLP = inputSentence.match(/\b(?!\w*QLP\b)\w+\b/g);
-                console.log(wordsWithoutQLP)
+                //console.log(wordsWithoutQLP)
 
-                if (wordsWithoutQLP){ //loop through each word that didn't get translated
+                if (wordsWithoutQLP){ //loop through each word that didn't get translated to correct them
                     wordsWithoutQLP.forEach(function(word){
                         //console.log("Word: " + word)
-                        //correctedWord = word.replace(/\b(di|me|men|meng)\w*\b/g, '$1 $2');
+                        var correctedWord = undefined
+
                         if (word.match(/\b(di)\w*\b/g)){
-                            var correctedWord = word.replace("di", "di ")
+                            correctedWord = word.replace("di", "di ")
                         }
 
                         if (word.match(/\b(meng)\w*\b/g)){
-                            var correctedWord = word.replace("meng", "nga ")
+                            correctedWord = word.replace("meng", "nga ")
                         }
                         else if (word.match(/\b(men)\w*\b/g)){
-                            var correctedWord = word.replace("men", "nga ")
+                            correctedWord = word.replace("men", "nga ")
                         }
                         else if (word.match(/\b(me)\w*\b/g)){
-                            var correctedWord = word.replace("me", "na ")
+                            correctedWord = word.replace("me", "na ")
                         }
                         else if (word.match(/\b(ke)\w*\b/g)){
-                            var correctedWord = word.replace("ke", "ke ")
+                            correctedWord = word.replace("ke", "ke ")
                         }
                         else if (word.match(/\b(ber)\w*\b/g)){
-                            var correctedWord = word.replace("ber", "ba ")
+                            correctedWord = word.replace("ber", "ba ")
                         }
 
-
-
-                        if (!word.match(/\b(?!\w*(nya|kan)\b)\w+\b/g)){
-                            var correctedWord = word.replaceAll("nya", " nya").replaceAll("kan", " keun")
-                        }
                         if (correctedWord == undefined){
                             correctedWord = word
                         }
-                        //console.log("Corrected Word: " + correctedWord)
+
+
+                        inputSentence = inputSentence.replaceAll(word, correctedWord) //reset for matching ending
+                        word = inputSentence
+                        correctedWord = undefined
+
+
+                        //if (!word.match(/\b(?!\w*(nya|kan)\b)\w+\b/g)){
+                        if (word.match(/\b\w*(nya)\b/g)){
+                            correctedWord = word.replaceAll("nya", " nya")//.replaceAll("kan", " keun")
+                        }
+                        else if (word.match(/\b\w*(kan)\b/g)){
+                            correctedWord = word.replaceAll("kan", " keun")
+                        }
+
+                        if (correctedWord == undefined){
+                            correctedWord = word
+                        }
+
                         inputSentence = inputSentence.replaceAll(word, correctedWord)
                     });
                 }
@@ -136,9 +150,9 @@
                 }
 
                 wordsWithoutQLP = inputSentence.match(/\b(?!\w*QLP\b)\w+\b/g);
-                console.log(wordsWithoutQLP)
+                //console.log(wordsWithoutQLP)
 
-                if (wordsWithoutQLP != null){
+                if (wordsWithoutQLP != null){ // put the unknown words into the site
                     document.getElementById('unknownWords').innerText = "Unknown: " + wordsWithoutQLP;
                 }
                 else {
