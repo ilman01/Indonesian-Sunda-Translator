@@ -93,9 +93,28 @@
                     wordsWithoutQLP.forEach(function(word){
                         //console.log("Word: " + word)
                         //correctedWord = word.replace(/\b(di|me|men|meng)\w*\b/g, '$1 $2');
-                        if (word.match(/\b(di|me|men|meng)\w*\b/g)){
-                            var correctedWord = word.replaceAll("di", "di ")
+                        if (word.match(/\b(di)\w*\b/g)){
+                            var correctedWord = word.replace("di", "di ")
                         }
+
+                        if (word.match(/\b(meng)\w*\b/g)){
+                            var correctedWord = word.replace("meng", "nga ")
+                        }
+                        else if (word.match(/\b(men)\w*\b/g)){
+                            var correctedWord = word.replace("men", "nga ")
+                        }
+                        else if (word.match(/\b(me)\w*\b/g)){
+                            var correctedWord = word.replace("me", "na ")
+                        }
+                        else if (word.match(/\b(ke)\w*\b/g)){
+                            var correctedWord = word.replace("ke", "ke ")
+                        }
+                        else if (word.match(/\b(ber)\w*\b/g)){
+                            var correctedWord = word.replace("ber", "ba ")
+                        }
+
+
+
                         if (!word.match(/\b(?!\w*(nya|kan)\b)\w+\b/g)){
                             var correctedWord = word.replaceAll("nya", " nya").replaceAll("kan", " keun")
                         }
