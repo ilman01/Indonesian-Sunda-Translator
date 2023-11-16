@@ -72,6 +72,17 @@
 
                 for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
                     if (dictionary.hasOwnProperty(key)) {
+                        if (key.includes('-')){ // matches with the ones with dash second
+                            var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
+                            var translatedWord = dictionary[key].replace(/(\s+)/, "QLP ");
+                            translatedWord = translatedWord.replace("-", "QLP-");
+                            inputSentence = inputSentence.replace(regex, translatedWord + 'QLP');
+                        }
+                    }
+                }
+
+                for (var key in dictionary) { // looks at the whole sentence and matches with dictionary
+                    if (dictionary.hasOwnProperty(key)) {
                         //if (key.includes(' ')){
                         var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
                         var translatedWord = dictionary[key].replace(/(\s+)/, "QLP ");

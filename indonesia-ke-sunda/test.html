@@ -92,6 +92,35 @@
 
                 for (var key in dictionary) { // SECOND MATCH ATTEMPT
                     if (dictionary.hasOwnProperty(key)) {
+                        if (key.includes('-')){ // matches with the ones with dash second
+                            var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
+                            var translations = dictionary[key];
+
+                            if (translations.length > 1) {
+                                // If there are multiple translations, create a dropdown
+                                //var dropdownContent = '<select onchange="selectTranslation(this, \'' + key + '\')">';
+                                //var dropdownContent = '<select id="' + key + '">';
+                                var dropdownContent = '<select>';
+                                for (var i = 0; i < translations.length; i++) {
+                                    translationss = translations[i]
+                                    translationss = translationss.replace(/(\s+)/, "QLP ");
+                                    translationss = translationss.replace("-", "QLP-");
+                                    dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
+                                }
+                                dropdownContent += '</select>';
+                                modifiedSentence = modifiedSentence.replace(regex, dropdownContent);
+                            } else {
+                                // If only one translation, replace as before
+                                var translatedWord = translations[0].replace(/(\s+)/, "QLP ");
+                                translatedWord = translatedWord.replace("-", "QLP-");
+                                modifiedSentence = modifiedSentence.replace(regex, translatedWord + 'QLP');
+                            }
+                        }
+                    }
+                }
+
+                for (var key in dictionary) { // THIRD MATCH ATTEMPT
+                    if (dictionary.hasOwnProperty(key)) {
                         var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
                         var translations = dictionary[key];
 
@@ -171,7 +200,7 @@
                     });
                 }
 
-                for (var key in dictionary) { // THIRD MATCH ATTEMPT
+                for (var key in dictionary) { // FOURTH MATCH ATTEMPT
                     if (dictionary.hasOwnProperty(key)) {
                         var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
                         var translations = dictionary[key];
