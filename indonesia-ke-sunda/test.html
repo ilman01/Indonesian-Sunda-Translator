@@ -55,22 +55,54 @@
 
         function TranslateSentence() {
             var inputSentence = document.getElementById('inputSentence').value;
-            var originalInput = inputSentence.toLowerCase(); // store the original input for unknown words
+            //var originalInput = inputSentence.toLowerCase(); // store the original input for unknown words
             var modifiedSentence = inputSentence.toLowerCase(); // copy for modification
 
-            readCSV('../dictionary/testdictionary', function (dictionary) {
+            readCSV('../dictionary/testingnewsynalgo/testdictionary', function (dictionary) {
                 var wordsWithoutQLP = [];
 
-                for (var key in dictionary) {
+                for (var key in dictionary) { // FIRST MATCH ATTEMPT
+                    if (dictionary.hasOwnProperty(key)) {
+                        if (key.includes(' ')){ // matches with the ones with space first
+                            var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
+                            var translations = dictionary[key];
+
+                            if (translations.length > 1) {
+                                // If there are multiple translations, create a dropdown
+                                //var dropdownContent = '<select onchange="selectTranslation(this, \'' + key + '\')">';
+                                //var dropdownContent = '<select id="' + key + '">';
+                                var dropdownContent = '<select>';
+                                for (var i = 0; i < translations.length; i++) {
+                                    translationss = translations[i]
+                                    translationss = translationss.replace("-", "QLP-");
+                                    dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
+                                }
+                                dropdownContent += '</select>';
+                                modifiedSentence = modifiedSentence.replace(regex, dropdownContent);
+                            } else {
+                                // If only one translation, replace as before
+                                var translatedWord = translations[0].replace(/(\s+)/, "QLP ");
+                                translatedWord = translatedWord.replace("-", "QLP-");
+                                modifiedSentence = modifiedSentence.replace(regex, translatedWord + 'QLP');
+                            }
+                        }
+                    }
+                }
+
+                for (var key in dictionary) { // SECOND MATCH ATTEMPT
                     if (dictionary.hasOwnProperty(key)) {
                         var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
                         var translations = dictionary[key];
 
                         if (translations.length > 1) {
                             // If there are multiple translations, create a dropdown
-                            var dropdownContent = '<select onchange="selectTranslation(this, \'' + key + '\')">';
+                            //var dropdownContent = '<select onchange="selectTranslation(this, \'' + key + '\')">';
+                            //var dropdownContent = '<select id="' + key + '">';
+                            var dropdownContent = '<select>';
                             for (var i = 0; i < translations.length; i++) {
-                                dropdownContent += '<option value="' + translations[i] + '">' + translations[i] + '</option>';
+                                    translationss = translations[i]
+                                    translationss = translationss.replace("-", "QLP-");
+                                dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
                             }
                             dropdownContent += '</select>';
                             modifiedSentence = modifiedSentence.replace(regex, dropdownContent);
@@ -93,6 +125,9 @@
                         var correctedWord = undefined;
 
                         // Your existing word correction logic goes here
+                        if (word.match(/\b\w*(nya)\b/g)){
+                            correctedWord = word.replaceAll("nya", " nya")
+                        }
 
                         if (correctedWord == undefined) {
                             correctedWord = word;
@@ -102,24 +137,45 @@
                     });
                 }
 
+                for (var key in dictionary) { // THIRD MATCH ATTEMPT
+                    if (dictionary.hasOwnProperty(key)) {
+                        var regex = new RegExp('\\b' + key.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'g');
+                        var translations = dictionary[key];
+
+                        if (translations.length > 1) {
+                            // If there are multiple translations, create a dropdown
+                            //var dropdownContent = '<select onchange="selectTranslation(this, \'' + key + '\')">';
+                            //var dropdownContent = '<select id="' + key + '">';
+                            var dropdownContent = '<select>';
+                            for (var i = 0; i < translations.length; i++) {
+                                translationss = translations[i]
+                                translationss = translationss.replace("-", "QLP-");
+                                dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
+                            }
+                            dropdownContent += '</select>';
+                            modifiedSentence = modifiedSentence.replace(regex, dropdownContent);
+                        } else {
+                            // If only one translation, replace as before
+                            var translatedWord = translations[0].replace(/(\s+)/, "QLP ");
+                            translatedWord = translatedWord.replace("-", "QLP-");
+                            modifiedSentence = modifiedSentence.replace(regex, translatedWord + 'QLP');
+                        }
+                    }
+                }
+                console.log(modifiedSentence)
+                
+                wordsWithoutQLP = modifiedSentence.replace(/<select[\s\S]*?\/select>/gi, '');
+                wordsWithoutQLP = wordsWithoutQLP.match(/\b(?!\w*QLP\b)\w+\b/g);
+
                 // Remove temporary strings
                 modifiedSentence = modifiedSentence.replaceAll('QLP', '').replaceAll('EMPTY', '');
 
                 document.getElementById('translatedSentence').innerHTML = modifiedSentence;
 
-                wordsWithoutQLP = modifiedSentence.match(/\b(?!\w*QLP\b)\w+\b/g);
+                //console.log(wordsWithoutQLP)
 
-                if (wordsWithoutQLP) {
-                    // Filter out words that have dropdowns
-                    var wordsWithoutDropdowns = wordsWithoutQLP.filter(function (word) {
-                        return !word.includes("select"); // Assuming "select" is part of the dropdown HTML
-                    });
-
-                    if (wordsWithoutDropdowns.length > 0) {
-                        document.getElementById('unknownWords').innerText = "Unknown: " + wordsWithoutDropdowns;
-                    } else {
-                        document.getElementById('unknownWords').innerText = "";
-                    }
+                if (wordsWithoutQLP != null) {
+                    document.getElementById('unknownWords').innerText = "Unknown: " + wordsWithoutQLP;
                 } 
                 else {
                     document.getElementById('unknownWords').innerText = "";

@@ -1,3 +1,4 @@
 # Declare files that will always have LF line endings on checkout.
 /dictionary/* text eol=lf
 /dictionary/MakingNewDict1/* text eol=lf
+/dictionary/testingnewsynalgo/* text eol=lf
