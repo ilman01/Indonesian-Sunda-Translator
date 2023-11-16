@@ -104,7 +104,7 @@
                                     translationss = translations[i]
                                     translationss = translationss.replace(/(\s+)/, "QLP ");
                                     translationss = translationss.replace("-", "QLP-");
-                                dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
+                                    dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
                             }
                             dropdownContent += '</select>';
                             modifiedSentence = modifiedSentence.replace(regex, dropdownContent);
@@ -127,8 +127,40 @@
                         var correctedWord = undefined;
 
                         // Your existing word correction logic goes here
+
+                        if (word.match(/\b(di)\w*\b/g)){
+                            correctedWord = word.replace("di", "di ")
+                        }
+
+                        else if(word.match(/\b(meng)\w*\b/g)){
+                            correctedWord = word.replace("meng", "nga ")
+                        }
+                        else if (word.match(/\b(men)\w*\b/g)){
+                            correctedWord = word.replace("men", "nga ")
+                        }
+                        else if (word.match(/\b(me)\w*\b/g)){
+                            correctedWord = word.replace("me", "na ")
+                        }
+                        else if (word.match(/\b(ke)\w*\b/g)){
+                            correctedWord = word.replace("ke", "ke ")
+                        }
+                        else if (word.match(/\b(ber)\w*\b/g)){
+                            correctedWord = word.replace("ber", "ba ")
+                        }
+
+                        if (correctedWord == undefined){
+                            correctedWord = word
+                        }
+
+                        modifiedSentence = modifiedSentence.replaceAll(word, correctedWord); //reset for matching ending
+                        word = correctedWord
+                        correctedWord = undefined
+
                         if (word.match(/\b\w*(nya)\b/g)){
                             correctedWord = word.replaceAll("nya", " nya")
+                        }
+                        else if (word.match(/\b\w*(kan)\b/g)){
+                            correctedWord = word.replaceAll("kan", " keun")
                         }
 
                         if (correctedWord == undefined) {

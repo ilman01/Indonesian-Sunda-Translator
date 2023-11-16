@@ -62,3 +62,14 @@ label {
     width: 100%;
     overflow-wrap: break-word;
 }
+
+select {
+    background-color:rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow:'';
+    font-size: medium;
+    border-bottom-color: black;
+}
