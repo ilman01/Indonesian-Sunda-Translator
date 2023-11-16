@@ -6,14 +6,15 @@ def process_dictionary(input_file, output_file):
             parts = line.strip().split('|')
             if len(parts) == 2:
                 key, value = parts
-                if value not in unique_entries:
-                    unique_entries[value] = [key]
+                if key not in unique_entries:
+                    unique_entries[key] = set([value])
                 else:
-                    unique_entries[value].append(key)
+                    unique_entries[key].add(value)
 
     with open(output_file, 'w') as outfile:
-        for value, keys in unique_entries.items():
-            outfile.write(f"{', '.join(keys)}|{value}\n")
+        for key, values in unique_entries.items():
+            common_values = ', '.join(values)
+            outfile.write(f"{key}|{common_values}\n")
 
 # Get user input for file paths
 input_file_path = input("Enter the input file path: ")
