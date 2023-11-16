@@ -74,6 +74,7 @@
                                 var dropdownContent = '<select>';
                                 for (var i = 0; i < translations.length; i++) {
                                     translationss = translations[i]
+                                    translationss = translationss.replace(/(\s+)/, "QLP ");
                                     translationss = translationss.replace("-", "QLP-");
                                     dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
                                 }
@@ -101,6 +102,7 @@
                             var dropdownContent = '<select>';
                             for (var i = 0; i < translations.length; i++) {
                                     translationss = translations[i]
+                                    translationss = translationss.replace(/(\s+)/, "QLP ");
                                     translationss = translationss.replace("-", "QLP-");
                                 dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
                             }
@@ -149,6 +151,7 @@
                             var dropdownContent = '<select>';
                             for (var i = 0; i < translations.length; i++) {
                                 translationss = translations[i]
+                                translationss = translationss.replace(/(\s+)/, "QLP ");
                                 translationss = translationss.replace("-", "QLP-");
                                 dropdownContent += '<option value="' + translationss + "QLP" + '">' + translationss + "QLP" + '</option>';
                             }
