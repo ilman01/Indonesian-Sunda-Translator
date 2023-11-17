@@ -73,3 +73,8 @@ select {
     font-size: medium;
     border-bottom-color: black;
 }
+
+.switchmodes {
+    text-align: center;
+    margin-bottom: 20px;
+}
