@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../style.css">
-    <title>Terjemahan Indonesia ke Sunda</title>
+    <title>Terjemahan Sunda ke Indonesia</title>
 </head>
 <body>
-    <h1>Terjemahan Indonesia ke Sunda (Mode Sinonim)</h1>
+    <h1>Terjemahan Sunda ke Indonesia (Mode Sinonim)</h1>
     <div class="switchmodes">
-        <a class="switchmodestext2" href="../sunda-ke-indonesia/sinonim.html"><button>Ganti bahasa</button></a>
+        <a class="switchmodestext2" href="../indonesia-ke-sunda/sinonim.html"><button>Ganti bahasa</button></a>
     </div>
     <div class="switchmodes">
         <a class="switchmodestext" href="./"><button>Ganti ke mode normal</button></a>
@@ -46,8 +46,8 @@
                     for (var i = 0; i < lines.length; i++) {
                         var parts = lines[i].split('|'); // Change the delimiter here
                         if (parts.length === 2) {
-                            var leftSynonyms = parts[0].split(',').map(s => s.trim());
-                            var rightSynonyms = parts[1].split(',').map(s => s.trim());
+                            var leftSynonyms = parts[1].split(',').map(s => s.trim());
+                            var rightSynonyms = parts[0].split(',').map(s => s.trim());
                             leftSynonyms.forEach(function (left) {
                                 dictionary[left] = rightSynonyms;
                             });
