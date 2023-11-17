@@ -59,6 +59,7 @@
         function TranslateSentence() {
             var inputSentence = document.getElementById('inputSentence').value;
             inputSentence = inputSentence.toLowerCase(); // change to lowercase
+            inputSentence = inputSentence.replaceAll("é", "e").replaceAll("è", "e")
             //inputSentence = inputSentence.replace(/[?!,“”\.\""\n"]/g, function(match) { //separates special character like . and ,
             //    return ' ' + match + ' ';
             //});

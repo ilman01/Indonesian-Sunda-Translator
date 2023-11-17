@@ -63,8 +63,9 @@
             var inputSentence = document.getElementById('inputSentence').value;
             //var originalInput = inputSentence.toLowerCase(); // store the original input for unknown words
             var modifiedSentence = inputSentence.toLowerCase(); // copy for modification
+            modifiedSentence = modifiedSentence.replaceAll("é", "e").replaceAll("è", "e")
 
-            readCSV('../dictionary/testingnewsynalgo/synonymsundadictionary', function (dictionary) {
+            readCSV('../dictionary/SynonymAlgo/synonymSundaToIndoDictionary', function (dictionary) {
                 var wordsWithoutQLP = [];
 
                 for (var key in dictionary) { // FIRST MATCH ATTEMPT

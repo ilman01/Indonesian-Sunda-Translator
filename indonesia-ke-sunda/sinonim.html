@@ -64,7 +64,7 @@
             //var originalInput = inputSentence.toLowerCase(); // store the original input for unknown words
             var modifiedSentence = inputSentence.toLowerCase(); // copy for modification
 
-            readCSV('../dictionary/testingnewsynalgo/synonymsundadictionary', function (dictionary) {
+            readCSV('../dictionary/SynonymAlgo/synonymIndoToSundaDictionary', function (dictionary) {
                 var wordsWithoutQLP = [];
 
                 for (var key in dictionary) { // FIRST MATCH ATTEMPT
