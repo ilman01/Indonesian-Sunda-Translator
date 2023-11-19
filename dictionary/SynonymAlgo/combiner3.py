@@ -7,9 +7,9 @@ def process_dictionary(input_file, output_file):
             if len(parts) == 2:
                 key, value = parts
                 if value not in unique_entries:
-                    unique_entries[value] = [key]
+                    unique_entries[value] = set([key])
                 else:
-                    unique_entries[value].append(key)
+                    unique_entries[value].add(key)
 
     with open(output_file, 'w') as outfile:
         for value, keys in unique_entries.items():
