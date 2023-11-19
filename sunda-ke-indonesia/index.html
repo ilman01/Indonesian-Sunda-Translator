@@ -118,19 +118,16 @@
                             correctedWord = word.replace("di", "di ")
                         }
 
-                        /**if (word.match(/\b(meng)\w*\b/g)){
-                            correctedWord = word.replace("meng", "nga ")
+                        else if (word.match(/\b(nga)\w*\b/g)){
+                            correctedWord = word.replace("nga", "nga ")
                         }
-                        else if (word.match(/\b(men)\w*\b/g)){
-                            correctedWord = word.replace("men", "nga ")
+                        else if (word.match(/\b(na)\w*\b/g)){
+                            correctedWord = word.replace("na", "na ")
                         }
-                        else if (word.match(/\b(me)\w*\b/g)){
-                            correctedWord = word.replace("me", "na ")
+                        else if (word.match(/\b(ka)\w*\b/g)){
+                            correctedWord = word.replace("ka", "ka ")
                         }
-                        else if (word.match(/\b(ke)\w*\b/g)){
-                            correctedWord = word.replace("ke", "ke ")
-                        }**/
-                        if (word.match(/\b(ba)\w*\b/g)){
+                        else if (word.match(/\b(ba)\w*\b/g)){
                             correctedWord = word.replace("ba", "ber ")
                         }
 

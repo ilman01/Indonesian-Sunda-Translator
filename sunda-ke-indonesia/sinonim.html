@@ -168,20 +168,17 @@
                             correctedWord = word.replace("di", "di ")
                         }
 
-                        else if(word.match(/\b(meng)\w*\b/g)){
-                            correctedWord = word.replace("meng", "nga ")
+                        else if (word.match(/\b(nga)\w*\b/g)){
+                            correctedWord = word.replace("nga", "nga ")
                         }
-                        else if (word.match(/\b(men)\w*\b/g)){
-                            correctedWord = word.replace("men", "nga ")
+                        else if (word.match(/\b(na)\w*\b/g)){
+                            correctedWord = word.replace("na", "na ")
                         }
-                        else if (word.match(/\b(me)\w*\b/g)){
-                            correctedWord = word.replace("me", "na ")
+                        else if (word.match(/\b(ka)\w*\b/g)){
+                            correctedWord = word.replace("ka", "ka ")
                         }
-                        else if (word.match(/\b(ke)\w*\b/g)){
-                            correctedWord = word.replace("ke", "ke ")
-                        }
-                        else if (word.match(/\b(ber)\w*\b/g)){
-                            correctedWord = word.replace("ber", "ba ")
+                        else if (word.match(/\b(ba)\w*\b/g)){
+                            correctedWord = word.replace("ba", "ber ")
                         }
 
                         if (correctedWord == undefined){
@@ -192,11 +189,11 @@
                         word = correctedWord
                         correctedWord = undefined
 
-                        if (word.match(/\b\w*(nya)\b/g)){
-                            correctedWord = word.replaceAll("nya", " nya")
+                        if (word.match(/\b\w*(na)\b/g)){
+                            correctedWord = word.replaceAll("na", " na")
                         }
-                        else if (word.match(/\b\w*(kan)\b/g)){
-                            correctedWord = word.replaceAll("kan", " keun")
+                        else if (word.match(/\b\w*(keun)\b/g)){
+                            correctedWord = word.replaceAll("keun", " kan")
                         }
 
                         if (correctedWord == undefined) {
