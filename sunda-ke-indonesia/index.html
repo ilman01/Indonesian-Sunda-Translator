@@ -32,9 +32,23 @@
         </div>
     </div>
     <br>
-    <p id="unknownWords"></p>
+    <button id="showUnknownButton" onclick="showUnknown()">Show Unknown</button>
+    <p id="unknownWords" style="display: none;"></p>
 
     <script>
+        function showUnknown() {
+            unkownWordsElement = document.getElementById("unknownWords");
+            showUnknownButton = document.getElementById("showUnknownButton");
+            if (unkownWordsElement.style.display == 'none') {
+                unkownWordsElement.style.display = '';
+                showUnknownButton.innerText = "Hide Unknown"
+            }
+            else {
+                unkownWordsElement.style.display = 'none';
+                showUnknownButton.innerText = "Show Unknown"
+            }
+        }
+
         // Function to read CSV file and create a dictionary
         function readCSV(file, callback) {
             var xhr = new XMLHttpRequest();
