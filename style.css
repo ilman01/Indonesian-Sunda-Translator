@@ -1,6 +1,6 @@
 body {
     background-image: url("./background.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     background-position: center;
